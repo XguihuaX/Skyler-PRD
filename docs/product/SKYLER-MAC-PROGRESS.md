@@ -2,7 +2,7 @@
 
 由 Mac 端 Codex 维护。[Windows 主机记录](SKYLER-HOST-PROGRESS.md) · [验收清单](SKYLER-5070TI-ACCEPTANCE.md)
 
-**T-01 跨端聊天，Mac 网页已通过。** 2026-11-22，Mac 通过局域网 SSH 转发访问 Windows 上正在运行的「麦麦」，在同一主人私聊接着 Windows 的问题聊了一轮。独立桌宠单独验收。
+**T-01 已通过。** 2026-11-22，用户在 Windows 主机与 Mac 独立桌宠实测后确认「双端的消息是互通的」。下一项为 T-02 原生记忆与日程。
 
 | 11 月 22 日（上海时间） | Mac 实测 |
 | --- | --- |
