@@ -1,0 +1,1750 @@
+{
+  "date": "2026-11-22",
+  "prd_version": "0.95",
+  "scope": "requirements, related research and history; no runtime or user data",
+  "source_git_head": "00a164da1a3e25e7669b4c41ffc063053a7715c5",
+  "files": [
+    {
+      "path": ".agents/skills/momo-refactor-cases/references/cases.md",
+      "source_sha256": "dcc777995a5f56eff0d13bdc1259c6e2fed634e3dc7da331eb596c9d08c2c2b1",
+      "published_sha256": "dcc777995a5f56eff0d13bdc1259c6e2fed634e3dc7da331eb596c9d08c2c2b1"
+    },
+    {
+      "path": "AGENTS.md",
+      "source_sha256": "0680e8369454ad4c55b4c2581d8131ea9b303e6c0adf2e964087978870fa14f0",
+      "published_sha256": "1cf2e87d5dfbee235ba87acf1a0867167eb146cfb4b776f44a269413cb96367e"
+    },
+    {
+      "path": "DESIGN_LITE.md",
+      "source_sha256": "d96249b6e501052383ca902ac94808f83fac5c138b96a391c937e8786fb93938",
+      "published_sha256": "7066087a0ba3bf1b3b5e7fccdd1e21983dbe45dc71730de122b82d0c6a12b6a4"
+    },
+    {
+      "path": "ROADMAP.md",
+      "source_sha256": "a33d293415d39f618e87599b55b637f861a0260784104723decba4f577c95cb1",
+      "published_sha256": "d592dec8adf9f82b188645d5c06e5a28193362ebaa660b08157a8b0dd6bee82d"
+    },
+    {
+      "path": "docs/INV-16-current-prompt-and-persona-field-map.md",
+      "source_sha256": "cb78d5b02992735523d46b379ba286848eafe6458e2e22daac71345ca098a98a",
+      "published_sha256": "7ff11b215b177297ad6e495bb8b3ff8fa816bb7662aedac2e02abcd082d9110f"
+    },
+    {
+      "path": "docs/INV-17-daily-assistant-architecture-research.md",
+      "source_sha256": "3c30624e87832b6c69edb7a452586ce74d1390f2d5c48608dea51d6335e3fdb8",
+      "published_sha256": "3c30624e87832b6c69edb7a452586ce74d1390f2d5c48608dea51d6335e3fdb8"
+    },
+    {
+      "path": "docs/INV-18-code-slimming-audit.md",
+      "source_sha256": "9b61a258e434957662de2ca019d632b274b545f0cc288709b536b2e118cc1608",
+      "published_sha256": "9b61a258e434957662de2ca019d632b274b545f0cc288709b536b2e118cc1608"
+    },
+    {
+      "path": "docs/INV-20-legacy-path-evidence.md",
+      "source_sha256": "9f4eefaf9bdf86f7e07f56a49962be7de876316f831615824004145b8fdb6efd",
+      "published_sha256": "9f4eefaf9bdf86f7e07f56a49962be7de876316f831615824004145b8fdb6efd"
+    },
+    {
+      "path": "docs/INV-21-slimming-efficiency-baseline.md",
+      "source_sha256": "bdeafa6381c2d5a0a7cc38b7584aea478757f5aa456e42ca4d215747f86e2763",
+      "published_sha256": "bdeafa6381c2d5a0a7cc38b7584aea478757f5aa456e42ca4d215747f86e2763"
+    },
+    {
+      "path": "docs/INV-22-dailyagent-rp-literature-2026.md",
+      "source_sha256": "2ad449e447c4ba572c719e5d852f161a35b62958afc3aef8859a65688aa960e2",
+      "published_sha256": "4ec6ed81bc4d46dc65534f27e0fabcaee60efbcba50a7abd8552964d4f31c066"
+    },
+    {
+      "path": "docs/INV-23-project-slimming-scope.md",
+      "source_sha256": "97efa7473b3f21ee8278d8fe43381fddd8c21a80444bb7ee21d38208348f3ede",
+      "published_sha256": "97efa7473b3f21ee8278d8fe43381fddd8c21a80444bb7ee21d38208348f3ede"
+    },
+    {
+      "path": "docs/INV-24-memory-and-tool-routing.md",
+      "source_sha256": "ffd7d229e4ce7b135827d36e73424860994a8edb27b1529055bd3e9e720950c5",
+      "published_sha256": "ffd7d229e4ce7b135827d36e73424860994a8edb27b1529055bd3e9e720950c5"
+    },
+    {
+      "path": "docs/INV-25-commercial-assistant-research.md",
+      "source_sha256": "0533ecb8ecc9db8574557a91bb4239591cb010fa0fa4ff8e71fdce7b43f6254c",
+      "published_sha256": "8d276684d638f5c5c52d935333ba4ec9e138da67eaf5270ff6924ca87f4e6648"
+    },
+    {
+      "path": "docs/INV-26-project-map-and-optimization-review.md",
+      "source_sha256": "71291ab44b24ef46572dd51067a307d3b3262af930197da55c98da5515d2b15c",
+      "published_sha256": "b5d87d085ff03e883da45933363087fe58848a6c1a53a3b1ee3928217bf67386"
+    },
+    {
+      "path": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "source_sha256": "edab4d93788554db3943c160061bb1406b55cc7e5fee607a2cb99308faef3e0a",
+      "published_sha256": "da0fb9b6c17879acf50010ec7b1e6fb70cb4cd22de14ea00e3a51e87fd3d46c6"
+    },
+    {
+      "path": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "source_sha256": "e9a0ac58d5d6f4a9e2996fa57374d7cb58a2451bba39fb70a0caf6e1411fa8b5",
+      "published_sha256": "7b70ef2f9184268cf6bbe9908a80b654ffc35364153e433e6648fe0390a94f6d"
+    },
+    {
+      "path": "docs/INV-29-global-architecture-review-2026-11.md",
+      "source_sha256": "e523ce2cda23be12145cb7b33bfe7b32da808c8147cf41d3856b929f33b653f0",
+      "published_sha256": "2ef19697ba502676cdec328875601a2e9601ff2795f84e99c8c74a41257c1df7"
+    },
+    {
+      "path": "docs/INV-30-momo-capability-landscape-2026-11.md",
+      "source_sha256": "82d9e45e51f3e5a876dc4cf8a9decc346070d80bc36b43a08f8111736c41132d",
+      "published_sha256": "82d9e45e51f3e5a876dc4cf8a9decc346070d80bc36b43a08f8111736c41132d"
+    },
+    {
+      "path": "docs/INV-31-requirements-document-method.md",
+      "source_sha256": "589b53ebe94d9bd0a7054272e510de30d906c9be7610f6bb5906cfa3d27f8963",
+      "published_sha256": "589b53ebe94d9bd0a7054272e510de30d906c9be7610f6bb5906cfa3d27f8963"
+    },
+    {
+      "path": "docs/INV-32-skill-mcp-foundations.md",
+      "source_sha256": "8ebb5dbf2b2c94d5a3368890a92f1ce4b81d69c83b68c357a972ee6db2bf9577",
+      "published_sha256": "dd4a3b2fc4b72138d5577a0c11904ba277ba611341753d5712d8ae0badaf901c"
+    },
+    {
+      "path": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "source_sha256": "a51f136b89ee05359bd452438bbfe698f1aed9189413994b105a0f44d1eb3713",
+      "published_sha256": "8af1a437c9521d3913736c629a21fcc0344bc15aae08f84f3f442ed8e0081d29"
+    },
+    {
+      "path": "docs/INV-34-dsh-fish-reuse-and-momo.md",
+      "source_sha256": "249ba25bc8f7e9106ac43be700ba26631ab75b29509c1e60930463a28d171592",
+      "published_sha256": "249ba25bc8f7e9106ac43be700ba26631ab75b29509c1e60930463a28d171592"
+    },
+    {
+      "path": "docs/INV-35-fish-ecosystem-popularity-audit.md",
+      "source_sha256": "ea68f489737fadc2d083ca3594defd9daa40a34a8061a952e9b3c946d3283428",
+      "published_sha256": "f7837af66f2afa5e203f88a0fa4207319328be3123f08fbb983d68f14d922df4"
+    },
+    {
+      "path": "docs/INV-36-scene-perception-reuse.md",
+      "source_sha256": "41802427a27d1aab6a9d9abf4188a3e78f2568466a19a4fcc8a897ac7c3c9956",
+      "published_sha256": "41802427a27d1aab6a9d9abf4188a3e78f2568466a19a4fcc8a897ac7c3c9956"
+    },
+    {
+      "path": "docs/INV-37-image-model-rig-and-motion-presets.md",
+      "source_sha256": "1ea471f75cd37c0614842ec7490cebb6c98c2e09b219b22da555d74b581bc25a",
+      "published_sha256": "1ea471f75cd37c0614842ec7490cebb6c98c2e09b219b22da555d74b581bc25a"
+    },
+    {
+      "path": "docs/INV-38-maibot-memory-and-learning.md",
+      "source_sha256": "a1caed6bcd4a1b1c144faab51dce03440e4da248ec13b56b8a57d8e284199338",
+      "published_sha256": "6c5eb5d11dcbdc5220d40b3c4eebc055c4a91e0b74e20be2d6fc1ed4a785b1f0"
+    },
+    {
+      "path": "docs/INV-39-maibot-v1.4.6-overview.md",
+      "source_sha256": "fc3a15ba659611f9e1cf9a52020593c38881c855f6a17f88f47bb5976cdff4ac",
+      "published_sha256": "fc3a15ba659611f9e1cf9a52020593c38881c855f6a17f88f47bb5976cdff4ac"
+    },
+    {
+      "path": "docs/INV-40-maibot-memory-and-personality.md",
+      "source_sha256": "09a5090565b447a6c9859ae70363ad8cb350236d20ecd42b5aa5985c042c3bcf",
+      "published_sha256": "09a5090565b447a6c9859ae70363ad8cb350236d20ecd42b5aa5985c042c3bcf"
+    },
+    {
+      "path": "docs/INV-41-online-learning-and-bilibili-replies.md",
+      "source_sha256": "284ba60786962f088f5213bd2d61e294be5ed294e856425cc1636794dda2ba9c",
+      "published_sha256": "284ba60786962f088f5213bd2d61e294be5ed294e856425cc1636794dda2ba9c"
+    },
+    {
+      "path": "docs/INV-42-maibot-capabilities-and-momo-fit.md",
+      "source_sha256": "81f482f6e6cb39316541b272a572b156e84670278fbfc3bea0abda1756f54c6c",
+      "published_sha256": "81f482f6e6cb39316541b272a572b156e84670278fbfc3bea0abda1756f54c6c"
+    },
+    {
+      "path": "docs/INVESTIGATION-INDEX.md",
+      "source_sha256": "095e4e66df236c2108316b757a31d16a06749c08d8ad0f1cbc849333adc64133",
+      "published_sha256": "095e4e66df236c2108316b757a31d16a06749c08d8ad0f1cbc849333adc64133"
+    },
+    {
+      "path": "docs/PM-CC-PROTOCOL.md",
+      "source_sha256": "ca624419c5314189ff9ad502c1b50ee2d66a1a5a8834fbeffc5af42179ff0e6b",
+      "published_sha256": "ca624419c5314189ff9ad502c1b50ee2d66a1a5a8834fbeffc5af42179ff0e6b"
+    },
+    {
+      "path": "docs/PROJECT-MAP.md",
+      "source_sha256": "fa7bdb8bb0597ff15ac6b9c9dea57df0e6c6fee0ddce11d716fa8a909dbd7293",
+      "published_sha256": "0e895f7d4e40627eba26c1a0bbcee85418a9ed926883317e6eea8920c0a6c054"
+    },
+    {
+      "path": "docs/design/character-mechanism.md",
+      "source_sha256": "50c49934a36e59c8ce1c9902ee2a79d90c7870f1df6de07e5b041fa2ae4eef60",
+      "published_sha256": "50c49934a36e59c8ce1c9902ee2a79d90c7870f1df6de07e5b041fa2ae4eef60"
+    },
+    {
+      "path": "docs/design/dailyagent-plan.md",
+      "source_sha256": "1c78b59088a3022f06940ba245b79e80f5f3ac8c369e82119c2b4e748b8c5f60",
+      "published_sha256": "1c78b59088a3022f06940ba245b79e80f5f3ac8c369e82119c2b4e748b8c5f60"
+    },
+    {
+      "path": "docs/product/.memlog.md",
+      "source_sha256": "de2fd7b6903e0f3a70e07be778f39b8b8a3af6a2d673c34c0b121fb9d63cd0aa",
+      "published_sha256": "de2fd7b6903e0f3a70e07be778f39b8b8a3af6a2d673c34c0b121fb9d63cd0aa"
+    },
+    {
+      "path": "docs/product/.template.md",
+      "source_sha256": "7afd1f8fbebab166a4aaeb1ff7deeaf56771f00a19385d1cad7a29bed0bddf70",
+      "published_sha256": "7afd1f8fbebab166a4aaeb1ff7deeaf56771f00a19385d1cad7a29bed0bddf70"
+    },
+    {
+      "path": "docs/product/ARCH-001-runtime-renewal.md",
+      "source_sha256": "e089dcc7fd6846e9bd3e370d6e2e396c0201f1dfb8956e412ff0e913addf8ec2",
+      "published_sha256": "e089dcc7fd6846e9bd3e370d6e2e396c0201f1dfb8956e412ff0e913addf8ec2"
+    },
+    {
+      "path": "docs/product/F-001-temporal-coherence.md",
+      "source_sha256": "0ce70bd6ccc4576b048c5969ef388265d7763aa955cde0652edefacc4923487a",
+      "published_sha256": "0ce70bd6ccc4576b048c5969ef388265d7763aa955cde0652edefacc4923487a"
+    },
+    {
+      "path": "docs/product/F-002-social-world-dailyagent.md",
+      "source_sha256": "45a093bff377209aabb57429f4217126426d09b7a28fbef577c39794a782bf87",
+      "published_sha256": "a4085e64e8f9e75cc549cc47b213bbea6fc412cbf46c7cc967e0d50273dd0caa"
+    },
+    {
+      "path": "docs/product/F-003-ongoing-life-threads.md",
+      "source_sha256": "610c7abcd4b313a642cdb23f1cc306d86bdc390af0b2908ba30ae2f83674cab9",
+      "published_sha256": "610c7abcd4b313a642cdb23f1cc306d86bdc390af0b2908ba30ae2f83674cab9"
+    },
+    {
+      "path": "docs/product/F-004-sharing-reserve.md",
+      "source_sha256": "06a22abc6d087961fbb43ac6d214e656d19c8ca5251089e852489e8eeacce1ff",
+      "published_sha256": "06a22abc6d087961fbb43ac6d214e656d19c8ca5251089e852489e8eeacce1ff"
+    },
+    {
+      "path": "docs/product/F-005-preference-evolution.md",
+      "source_sha256": "354a39f1bc8204e412f2112a8d1f86205b1c61bba724257ae6fbddc735617b05",
+      "published_sha256": "354a39f1bc8204e412f2112a8d1f86205b1c61bba724257ae6fbddc735617b05"
+    },
+    {
+      "path": "docs/product/F-006-character-state-machine.md",
+      "source_sha256": "30cfdfa6a64cb243f06bda201f77f24505325ee7fbdd05ede3bf7fbe60ba8a0f",
+      "published_sha256": "30cfdfa6a64cb243f06bda201f77f24505325ee7fbdd05ede3bf7fbe60ba8a0f"
+    },
+    {
+      "path": "docs/product/F-007-context-arbitration.md",
+      "source_sha256": "fdb4ab8562f1ba71207c624f70a7e326d3889bf90d253446f90272cdb622822d",
+      "published_sha256": "fdb4ab8562f1ba71207c624f70a7e326d3889bf90d253446f90272cdb622822d"
+    },
+    {
+      "path": "docs/product/F-008-comfyui-connector.md",
+      "source_sha256": "e4b1ef1a7931bc6b3917476b0e584edd3c3d0d0f2d7747f5536bb79fe3dda5cc",
+      "published_sha256": "e4b1ef1a7931bc6b3917476b0e584edd3c3d0d0f2d7747f5536bb79fe3dda5cc"
+    },
+    {
+      "path": "docs/product/FEATURE-CONVERSATION-ACCEPTANCE-LOG.md",
+      "source_sha256": "677f8524b9504866ec15398a5ba4d058744505d5625b318c6181997b99331c10",
+      "published_sha256": "870ab4cc7b792e48d10c523dc977af6b66794414cc28457156d0850b5b20710b"
+    },
+    {
+      "path": "docs/product/FEATURE-INDEX.md",
+      "source_sha256": "bfa6262b0bbc96c2c2bbd196b59d51ffeaf1dd24c75181d61c79f8dfcad163a7",
+      "published_sha256": "883aac2c1d10abdf75f506fc7127adfcdbc13ba7a80be2e7a2e937faeb679b4e"
+    },
+    {
+      "path": "docs/product/HANDOFF-momo-requirements-2026-11-18.md",
+      "source_sha256": "7cf9b90b202422984e2b8a14fae612de00defb46caf82e2b3c9a207dbc9cbde7",
+      "published_sha256": "7cf9b90b202422984e2b8a14fae612de00defb46caf82e2b3c9a207dbc9cbde7"
+    },
+    {
+      "path": "docs/product/HISTORY-momo-prd-v0.22.md",
+      "source_sha256": "7e9f6485db7f946b6d0da5dd20a34f0141a40b6eb74f56eaeb0183e450357104",
+      "published_sha256": "c56515a59d2be6bc51e39b88618e5dc641a8fffc0c0203fddab7d100ea55e9bf"
+    },
+    {
+      "path": "docs/product/HISTORY-momo-prd-v0.94.md",
+      "source_sha256": "8c6a43b193cc691e9b44f7d33cf23d520d3e816e0e3f25a18057b6158ba121cd",
+      "published_sha256": "13999bd7a35aa90cc10a9f27a5ede9a27735916319f68a40d31e755708b9008a"
+    },
+    {
+      "path": "docs/product/HISTORY-requirements-handoff-20261122.md",
+      "source_sha256": "cffab5306ae2232d83f1dd285bae57007c009dfd52838c90116076f81ac174a1",
+      "published_sha256": "9fac93171f507366e95948f32fa3bbd4719ba4662949e5536b499ea65a128bb1"
+    },
+    {
+      "path": "docs/product/HISTORY-runtime-renewal-20261122.md",
+      "source_sha256": "cb3fdc0fbd9b923682fe952404f345d635873c69708825142f01f7f1041eebad",
+      "published_sha256": "8dcd279b5c137e22dcfedfd84c8ce02ec790f63203554102fed98e8558dd16d6"
+    },
+    {
+      "path": "docs/product/HUMAN-ACCEPTANCE-CHECKLIST.md",
+      "source_sha256": "3d1e727313ef276dbd63d0f907a3720fb550928f2a219cd1fb741a65fd104810",
+      "published_sha256": "912bbfbc21b8aa8ee2a6d112150588d2f1d63ba51eda262a88754d84d736d818"
+    },
+    {
+      "path": "docs/product/INTERFACE-001-frontend-backend-contract.md",
+      "source_sha256": "8360e2336b3c325539b3bb75652db649ff7d19b6a9ed841b06681db403cde8ca",
+      "published_sha256": "8360e2336b3c325539b3bb75652db649ff7d19b6a9ed841b06681db403cde8ca"
+    },
+    {
+      "path": "docs/product/PRD-assistant-first-2026.md",
+      "source_sha256": "8d858e73ac152e9a6ae7a8869f066f3b07c910fbc6d1eb35b9d31417e4399e01",
+      "published_sha256": "c4755959db0ba113f570963b681ff61ae64414a37f72e3cdcca3d1615c7cd4ad"
+    },
+    {
+      "path": "docs/product/PRD-momo-next.md",
+      "source_sha256": "095dec660dc8ca0f0766271fcf826490033b99ef4c952e15ea1d7e2549a3060d",
+      "published_sha256": "358b4aba3097433a0b7dc5436a10b5d9196092a82d8174c6e7cd1dc958604784"
+    },
+    {
+      "path": "docs/product/PROMPT-EVALUATION-PROTOCOL.md",
+      "source_sha256": "bc617ad6157674b8023a68f96c7566f04e6ea4ef1568f5b10a53d537ae39d18d",
+      "published_sha256": "d312cac2025db5b6d295db5aacc54b13204fdece3ab0ada150d0a7abf765faab"
+    },
+    {
+      "path": "docs/product/PROMPT-MODEL-EVALUATION-LOG.md",
+      "source_sha256": "3909380b930725d58b34de881fdceb747017cdd4b5c93f9e3323233bfde4f3be",
+      "published_sha256": "f8522ef4ecb53cf99c1d00c988c45f1c34ab10dd23d2111d826bcc8b6a44cc55"
+    },
+    {
+      "path": "docs/product/README.md",
+      "source_sha256": "b2d531009ca33bfa06e8f247224b903b84fa9e01891f0233059df3d60cff2164",
+      "published_sha256": "b2d531009ca33bfa06e8f247224b903b84fa9e01891f0233059df3d60cff2164"
+    },
+    {
+      "path": "docs/product/REF-001-code-slimming.md",
+      "source_sha256": "9d05f70b8e75700b00f9c093d5a29aacdf6b28a0bd0420ae39999e410908374b",
+      "published_sha256": "4f951baf71667fc51579bdd4574417e5374221b0e6fd7a90acd93558818908e2"
+    },
+    {
+      "path": "docs/product/SKYLER-5070TI-ACCEPTANCE.md",
+      "source_sha256": "924e45014b726d97dcebb4f14126a0ff21ca900bb8910698013a19a8f411842a",
+      "published_sha256": "924e45014b726d97dcebb4f14126a0ff21ca900bb8910698013a19a8f411842a"
+    },
+    {
+      "path": "docs/product/SKYLER-CHANNELS-AND-HANDOFF.md",
+      "source_sha256": "15491954b57ed09714b3ccba7558211dca0ccdf069957ee111ae48dd9853a85a",
+      "published_sha256": "15491954b57ed09714b3ccba7558211dca0ccdf069957ee111ae48dd9853a85a"
+    },
+    {
+      "path": "docs/product/SKYLER-FUNCTION-REUSE.md",
+      "source_sha256": "c627f785277adf66d2e1ade82b3400a41e6d4e78d53323b7cba95cddd50291a0",
+      "published_sha256": "c627f785277adf66d2e1ade82b3400a41e6d4e78d53323b7cba95cddd50291a0"
+    },
+    {
+      "path": "docs/product/SKYLER-TASKS.md",
+      "source_sha256": "f249d197cc658e574ae736d347fdcb7f163ae73282d30cb8c060f61098716eed",
+      "published_sha256": "f249d197cc658e574ae736d347fdcb7f163ae73282d30cb8c060f61098716eed"
+    },
+    {
+      "path": "docs/product/SKYLER-VALIDATION-LOG.md",
+      "source_sha256": "6e6632da29754715e690f24971573713c03ed6e9975ee688d173c3eeddf96cdc",
+      "published_sha256": "6e6632da29754715e690f24971573713c03ed6e9975ee688d173c3eeddf96cdc"
+    },
+    {
+      "path": "docs/product/SPEC-momo-next-details.md",
+      "source_sha256": "e694eded66a7ca383b0768e82873910b268ff0c836c56e25703c7750b3a85966",
+      "published_sha256": "8f0d519ead57520e93e297e1f163d3bf4dbe147b3d10d8839262339c683e8ea9"
+    },
+    {
+      "path": "docs/product/review-rubric.md",
+      "source_sha256": "942e31aeec5a3051ddec481ed9761b167fdcecb0db5e14ae5337bc6157b2e820",
+      "published_sha256": "942e31aeec5a3051ddec481ed9761b167fdcecb0db5e14ae5337bc6157b2e820"
+    },
+    {
+      "path": "docs/research/CHARACTER-LAB-HANDOFF.md",
+      "source_sha256": "ad5260b718a777a73e57b506fa4f059baa97d2da60adfcf1979322838f0b4d32",
+      "published_sha256": "ad5260b718a777a73e57b506fa4f059baa97d2da60adfcf1979322838f0b4d32"
+    },
+    {
+      "path": "docs/research/assistant-upgrade-sources-2026-10-23.md",
+      "source_sha256": "666cae4c222abb5bda80a7f21691525722ac45c4209d163428856608c20487d6",
+      "published_sha256": "b55cf89b53dfca74353f44fa03fbc4ff3a0c579c0e91bd6eb1c85973576de66a"
+    },
+    {
+      "path": "docs/research/commercial-assistant-sources-2026-10-13.md",
+      "source_sha256": "87cb0f5ec6130dbda5e0b4cbff52f1f782579620f1f9f51a2e83879f9a9b8c73",
+      "published_sha256": "87cb0f5ec6130dbda5e0b4cbff52f1f782579620f1f9f51a2e83879f9a9b8c73"
+    },
+    {
+      "path": "docs/research/maibot-v1.4.8-plugin-catalog.csv",
+      "source_sha256": "b5a77a0db2c63f71d325daa78e90bcb853b86a5ad65b86fb4c1e61af8608837f",
+      "published_sha256": "b5a77a0db2c63f71d325daa78e90bcb853b86a5ad65b86fb4c1e61af8608837f"
+    }
+  ],
+  "source_reference_rewrites": [
+    {
+      "document": "docs/INV-25-commercial-assistant-research.md",
+      "original": "../backend/observability/system.py",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/INV-25-commercial-assistant-research.md",
+      "original": "../tests/test_system_resource_sampling.py",
+      "target": "tests/test_system_resource_sampling.py"
+    },
+    {
+      "document": "docs/INV-25-commercial-assistant-research.md",
+      "original": "../scripts/run_slimming_checks.py",
+      "target": "scripts/run_slimming_checks.py"
+    },
+    {
+      "document": "docs/INV-25-commercial-assistant-research.md",
+      "original": "validation/ref001-regression-2026-10-13.json",
+      "target": "docs/validation/ref001-regression-2026-10-13.json"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/observability/system.py",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../tests/legacy_source/test_integration.py.txt#L138",
+      "target": "tests/legacy_source/test_integration.py.txt"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/main.py#L355",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/main.py#L242",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/services/daily_plan.py",
+      "target": "backend/services/daily_plan.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/services/daily_ticker.py",
+      "target": "backend/services/daily_ticker.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/observability/system.py",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/memory/extractor.py#L366",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/memory/long_term.py#L307",
+      "target": "backend/memory/long_term.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/utils/memory_entry_validator.py#L196",
+      "target": "backend/utils/memory_entry_validator.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-26-project-map-and-optimization-review.md",
+      "original": "../tests/test_system_resource_sampling.py",
+      "target": "tests/test_system_resource_sampling.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../backend/main.py",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../backend/utils/background_tasks.py",
+      "target": "backend/utils/background_tasks.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../tests/test_lifespan_cleanup.py",
+      "target": "tests/test_lifespan_cleanup.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../backend/utils/memory_entry_validator.py",
+      "target": "backend/utils/memory_entry_validator.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../tests/test_memory_dedup_cache.py",
+      "target": "tests/test_memory_dedup_cache.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../scripts/run_slimming_checks.py",
+      "target": "scripts/run_slimming_checks.py"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "../tests/legacy_source/README.md",
+      "target": "tests/legacy_source/README.md"
+    },
+    {
+      "document": "docs/INV-27-lifecycle-and-regression-gates.md",
+      "original": "validation/ref001-regression-2026-10-13.json",
+      "target": "docs/validation/ref001-regression-2026-10-13.json"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/observability/system.py#L110",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/main.py#L260",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/main.py#L374",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../frontend/src/hooks/useLoadingSequence.ts#L97",
+      "target": "frontend/src/hooks/useLoadingSequence.ts"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/memory/extractor.py#L366",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/memory/extractor.py#L437",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/memory/long_term.py#L289",
+      "target": "backend/memory/long_term.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/agents/chat.py#L1612",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/agents/chat.py#L593",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/agents/chat.py#L2179",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/agents/chat.py#L2267",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/agents/_token_probe.py#L38",
+      "target": "backend/agents/_token_probe.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "../backend/routes/ws.py#L676",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "research/fts5-probe-2026-10-23.py",
+      "target": "docs/research/fts5-probe-2026-10-23.py"
+    },
+    {
+      "document": "docs/INV-28-assistant-upgrade-research-outline.md",
+      "original": "validation/fts5-probe-2026-10-23.json",
+      "target": "docs/validation/fts5-probe-2026-10-23.json"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "../backend/agents/_token_probe.py",
+      "target": "backend/agents/_token_probe.py"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "../tests/test_token_probe.py",
+      "target": "tests/test_token_probe.py"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "../tests/test_context_decision_prompt_integration.py",
+      "target": "tests/test_context_decision_prompt_integration.py"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "../tests/test_character_fsm_v1.py",
+      "target": "tests/test_character_fsm_v1.py"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "validation/project-review-2026-11-17.json",
+      "target": "docs/validation/project-review-2026-11-17.json"
+    },
+    {
+      "document": "docs/INV-29-global-architecture-review-2026-11.md",
+      "original": "validation/project-review-chat-2026-11-17.json",
+      "target": "docs/validation/project-review-chat-2026-11-17.json"
+    },
+    {
+      "document": "docs/INV-32-skill-mcp-foundations.md",
+      "original": "../backend/mcp/tool_state.py#L110-L130",
+      "target": "backend/mcp/tool_state.py"
+    },
+    {
+      "document": "docs/INV-32-skill-mcp-foundations.md",
+      "original": "../backend/mcp/client.py#L499-L511",
+      "target": "backend/mcp/client.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/ws.py",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/conversations_api.py",
+      "target": "backend/routes/conversations_api.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/ws.py",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/persona_api.py",
+      "target": "backend/routes/persona_api.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/agents/prompt/renderer.py",
+      "target": "backend/agents/prompt/renderer.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/memory/long_term.py",
+      "target": "backend/memory/long_term.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/memory/extractor.py",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/users_api.py",
+      "target": "backend/routes/users_api.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/mcp/client.py",
+      "target": "backend/mcp/client.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/registry.py",
+      "target": "backend/capabilities/registry.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/asr/whisper.py",
+      "target": "backend/asr/whisper.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/hooks/useAudio.ts",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/hooks/useAudio.ts",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/tts/registry.py",
+      "target": "backend/tts/registry.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/tts/gsv.py",
+      "target": "backend/tts/gsv.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/components/character/CharacterGallery.tsx",
+      "target": "frontend/src/components/character/CharacterGallery.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/voice_lines.py",
+      "target": "backend/routes/voice_lines.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/lib/live2d/runtimes/pixiCubism4.ts",
+      "target": "frontend/src/lib/live2d/runtimes/pixiCubism4.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/live2d_api.py",
+      "target": "backend/routes/live2d_api.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/App.tsx",
+      "target": "frontend/src/App.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/modes/Panel.tsx",
+      "target": "frontend/src/modes/Panel.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/modes/Widget.tsx",
+      "target": "frontend/src/modes/Widget.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/components/settings/SettingsPanelV2.tsx",
+      "target": "frontend/src/components/settings/SettingsPanelV2.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/screen.py",
+      "target": "backend/capabilities/screen.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/clipboard.py",
+      "target": "backend/capabilities/clipboard.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/integrations/activity_watcher.py",
+      "target": "backend/integrations/activity_watcher.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/scheduler/cron.py",
+      "target": "backend/scheduler/cron.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/scheduler/briefing.py",
+      "target": "backend/scheduler/briefing.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/integrations/apple_calendar.py",
+      "target": "backend/integrations/apple_calendar.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/ai_providers_api.py",
+      "target": "backend/routes/ai_providers_api.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/llm/client.py",
+      "target": "backend/llm/client.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/utils/temporal_context.py",
+      "target": "backend/utils/temporal_context.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/services/daily_runtime.py",
+      "target": "backend/services/daily_runtime.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/agents/context_arbitration.py",
+      "target": "backend/agents/context_arbitration.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/netease_music.py",
+      "target": "backend/capabilities/netease_music.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/netease_playback.py",
+      "target": "backend/capabilities/netease_playback.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/integrations/mpv_player.py",
+      "target": "backend/integrations/mpv_player.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/bilibili.py",
+      "target": "backend/capabilities/bilibili.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/xiaohongshu.py",
+      "target": "backend/capabilities/xiaohongshu.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/capabilities/docx_ops.py",
+      "target": "backend/capabilities/docx_ops.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/integrations/comfyui.py",
+      "target": "backend/integrations/comfyui.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/observability/system.py",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/agents/_token_probe.py",
+      "target": "backend/agents/_token_probe.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/database/run_migrations.py",
+      "target": "backend/database/run_migrations.py"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/hooks/useAudio.ts",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/components/ChatInput.tsx",
+      "target": "frontend/src/components/ChatInput.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/components/ControlBar.tsx",
+      "target": "frontend/src/components/ControlBar.tsx"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/hooks/useAudio.ts",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../frontend/src/store/index.ts",
+      "target": "frontend/src/store/index.ts"
+    },
+    {
+      "document": "docs/INV-33-legacy-capabilities-and-technology-refresh.md",
+      "original": "../backend/routes/ws.py",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/prompts/memory_extraction.py",
+      "target": "backend/prompts/memory_extraction.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/memory/extractor.py",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/services/profile_regen.py",
+      "target": "backend/services/profile_regen.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/memory/long_term.py",
+      "target": "backend/memory/long_term.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/utils/temporal_context.py#L120",
+      "target": "backend/utils/temporal_context.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/services/character_world.py#L155",
+      "target": "backend/services/character_world.py"
+    },
+    {
+      "document": "docs/INV-38-maibot-memory-and-learning.md",
+      "original": "../backend/services/life_thread_settlement.py",
+      "target": "backend/services/life_thread_settlement.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/main.tsx",
+      "target": "frontend/src/main.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/App.tsx",
+      "target": "frontend/src/App.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src-tauri/src/main.rs",
+      "target": "frontend/src-tauri/src/main.rs"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/main.py",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/loading/LoadingScreen.tsx",
+      "target": "frontend/src/components/loading/LoadingScreen.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/hooks/useLoadingSequence.ts",
+      "target": "frontend/src/hooks/useLoadingSequence.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/health_api.py",
+      "target": "backend/routes/health_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/main.py",
+      "target": "backend/main.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/boot_tracker.py",
+      "target": "backend/utils/boot_tracker.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/loading/engine.ts",
+      "target": "frontend/src/lib/loading/engine.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/background_tasks.py",
+      "target": "backend/utils/background_tasks.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_lifespan_cleanup.py",
+      "target": "tests/test_lifespan_cleanup.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/hooks/useWebSocket.ts",
+      "target": "frontend/src/hooks/useWebSocket.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ChatInput.tsx",
+      "target": "frontend/src/components/ChatInput.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/turnAck.ts",
+      "target": "frontend/src/lib/turnAck.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/ws.py",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_ws_helpers.py",
+      "target": "tests/test_ws_helpers.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_ws_attachments.py",
+      "target": "tests/test_ws_attachments.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_turn_ack.mjs",
+      "target": "tests/test_turn_ack.mjs"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ConversationList.tsx",
+      "target": "frontend/src/components/ConversationList.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ChatHistoryPanel.tsx",
+      "target": "frontend/src/components/ChatHistoryPanel.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/conversations_api.py",
+      "target": "backend/routes/conversations_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/memory/short_term.py",
+      "target": "backend/memory/short_term.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/history_window.py",
+      "target": "backend/utils/history_window.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_memory.py",
+      "target": "tests/test_memory.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_memory_contract.py",
+      "target": "tests/test_memory_contract.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/PersonaEditorModal.tsx",
+      "target": "frontend/src/components/PersonaEditorModal.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/persona_api.py",
+      "target": "backend/routes/persona_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/prompt/renderer.py",
+      "target": "backend/agents/prompt/renderer.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/prompt/persona_loader.py",
+      "target": "backend/agents/prompt/persona_loader.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/prompt/templates",
+      "target": "backend/agents/prompt/templates"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/prompt/output_adapter.py",
+      "target": "backend/agents/prompt/output_adapter.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_platform_constitution.py",
+      "target": "tests/test_platform_constitution.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_persona_profile_v2.py",
+      "target": "tests/test_persona_profile_v2.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/MemoryManagerDrawer.tsx",
+      "target": "frontend/src/components/MemoryManagerDrawer.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/memory_api.py",
+      "target": "backend/routes/memory_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/memory/extractor.py",
+      "target": "backend/memory/extractor.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/memory_entry_validator.py",
+      "target": "backend/utils/memory_entry_validator.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/memory/long_term.py",
+      "target": "backend/memory/long_term.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/memory/summary.py",
+      "target": "backend/memory/summary.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/memory/tombstone.py",
+      "target": "backend/memory/tombstone.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_memory_extractor_e2e.py",
+      "target": "tests/test_memory_extractor_e2e.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_memory_entry_validator.py",
+      "target": "tests/test_memory_entry_validator.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_memory_dedup_cache.py",
+      "target": "tests/test_memory_dedup_cache.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/UserProfileSection.tsx",
+      "target": "frontend/src/components/UserProfileSection.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/profileData.ts",
+      "target": "frontend/src/lib/profileData.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/users_api.py",
+      "target": "backend/routes/users_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/profile_regen.py",
+      "target": "backend/services/profile_regen.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/profile_schema.py",
+      "target": "backend/utils/profile_schema.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_profile_data_api.py",
+      "target": "tests/test_profile_data_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_profile_user_only.py",
+      "target": "tests/test_profile_user_only.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/CapabilityPanel.tsx",
+      "target": "frontend/src/components/CapabilityPanel.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ExtensionsSection.tsx",
+      "target": "frontend/src/components/ExtensionsSection.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/MCPConfirmModal.tsx",
+      "target": "frontend/src/components/MCPConfirmModal.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/tools/registry.py",
+      "target": "backend/tools/registry.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/capabilities/registry.py",
+      "target": "backend/capabilities/registry.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/mcp/client.py",
+      "target": "backend/mcp/client.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/mcp/tool_state.py",
+      "target": "backend/mcp/tool_state.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/mcp/confirm_gate.py",
+      "target": "backend/mcp/confirm_gate.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_mcp_startup_parallel.py",
+      "target": "tests/test_mcp_startup_parallel.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_mcp_client_tool_filter.py",
+      "target": "tests/test_mcp_client_tool_filter.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_mcp_tool_state.py",
+      "target": "tests/test_mcp_tool_state.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/tool_call_resilience.py",
+      "target": "backend/agents/tool_call_resilience.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/prompt/tool_addendum.py",
+      "target": "backend/agents/prompt/tool_addendum.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/llm/client.py",
+      "target": "backend/llm/client.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_tool_truncate.py",
+      "target": "tests/test_tool_truncate.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_tool_call_resilience.py",
+      "target": "tests/test_tool_call_resilience.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/hooks/useAudio.ts",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/micStream.ts",
+      "target": "frontend/src/lib/micStream.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/asr/whisper.py",
+      "target": "backend/asr/whisper.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/ws.py",
+      "target": "backend/routes/ws.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/tts/registry.py",
+      "target": "backend/tts/registry.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/ttsAudio.ts",
+      "target": "frontend/src/lib/ttsAudio.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/micStream.test.mjs",
+      "target": "frontend/src/lib/micStream.test.mjs"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/ttsAudio.test.mjs",
+      "target": "frontend/src/lib/ttsAudio.test.mjs"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/Live2DCanvas.tsx",
+      "target": "frontend/src/components/Live2DCanvas.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/modes/Widget.tsx",
+      "target": "frontend/src/modes/Widget.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/character/CharacterGallery.tsx",
+      "target": "frontend/src/components/character/CharacterGallery.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/live2d/runtime.ts",
+      "target": "frontend/src/lib/live2d/runtime.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/lib/live2d/runtimes/pixiCubism4.ts",
+      "target": "frontend/src/lib/live2d/runtimes/pixiCubism4.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/hooks/useAudioAmplitude.ts",
+      "target": "frontend/src/hooks/useAudioAmplitude.ts"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/live2d_api.py",
+      "target": "backend/routes/live2d_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_live2d_upload.py",
+      "target": "tests/test_live2d_upload.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ActivityAwarenessSection.tsx",
+      "target": "frontend/src/components/ActivityAwarenessSection.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/ActivityTimelineDrawer.tsx",
+      "target": "frontend/src/components/ActivityTimelineDrawer.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/integrations/activity_watcher.py",
+      "target": "backend/integrations/activity_watcher.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/activity_timeline.py",
+      "target": "backend/services/activity_timeline.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/capabilities/screen.py",
+      "target": "backend/capabilities/screen.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/capabilities/clipboard.py",
+      "target": "backend/capabilities/clipboard.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_activity_watcher.py",
+      "target": "tests/test_activity_watcher.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_screen_capabilities.py",
+      "target": "tests/test_screen_capabilities.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/briefing_api.py",
+      "target": "backend/routes/briefing_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/capabilities/calendar.py",
+      "target": "backend/capabilities/calendar.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/scheduler/cron.py",
+      "target": "backend/scheduler/cron.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/scheduler/briefing.py",
+      "target": "backend/scheduler/briefing.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/proactive/engine.py",
+      "target": "backend/proactive/engine.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/proactive/triggers",
+      "target": "backend/proactive/triggers"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/integrations/apple_calendar.py",
+      "target": "backend/integrations/apple_calendar.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_wake_call_briefing.py",
+      "target": "tests/test_wake_call_briefing.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_apple_calendar.py",
+      "target": "tests/test_apple_calendar.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/capabilities/AIProvidersSection.tsx",
+      "target": "frontend/src/components/capabilities/AIProvidersSection.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/settings/SettingsPanelV2.tsx",
+      "target": "frontend/src/components/settings/SettingsPanelV2.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/ai_providers_api.py",
+      "target": "backend/routes/ai_providers_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/ai_providers.py",
+      "target": "backend/database/ai_providers.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/llm/provider_options.py",
+      "target": "backend/llm/provider_options.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/tts/voice_config.py",
+      "target": "backend/tts/voice_config.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_ai_providers_backend.py",
+      "target": "tests/test_ai_providers_backend.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_ai_providers_trim_preserves_custom.py",
+      "target": "tests/test_ai_providers_trim_preserves_custom.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/capabilities",
+      "target": "backend/capabilities"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/integrations",
+      "target": "backend/integrations"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_netease_capabilities.py",
+      "target": "tests/test_netease_capabilities.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_mpv_player.py",
+      "target": "tests/test_mpv_player.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_bilibili_capabilities.py",
+      "target": "tests/test_bilibili_capabilities.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../frontend/src/components/system/SystemPanel.tsx",
+      "target": "frontend/src/components/system/SystemPanel.tsx"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/routes/observability_api.py",
+      "target": "backend/routes/observability_api.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/observability/system.py",
+      "target": "backend/observability/system.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/_token_probe.py",
+      "target": "backend/agents/_token_probe.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/observability/tts_log.py",
+      "target": "backend/observability/tts_log.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/observability/tts_aggregate.py",
+      "target": "backend/observability/tts_aggregate.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_system_resource_sampling.py",
+      "target": "tests/test_system_resource_sampling.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/models.py",
+      "target": "backend/database/models.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/services.py",
+      "target": "backend/database/services.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/run_migrations.py",
+      "target": "backend/database/run_migrations.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/migrations",
+      "target": "backend/database/migrations"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/database/__init__.py",
+      "target": "backend/database/__init__.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/temporal_context.py",
+      "target": "backend/utils/temporal_context.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/utils/chat_time.py",
+      "target": "backend/utils/chat_time.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_temporal_prompt_integration.py",
+      "target": "tests/test_temporal_prompt_integration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/character_world.py",
+      "target": "backend/services/character_world.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/daily_plan.py",
+      "target": "backend/services/daily_plan.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/daily_runtime.py",
+      "target": "backend/services/daily_runtime.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/daily_ticker.py",
+      "target": "backend/services/daily_ticker.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_dailyagent_stage2a_runtime.py",
+      "target": "tests/test_dailyagent_stage2a_runtime.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/life_threads.py",
+      "target": "backend/services/life_threads.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/life_thread_settlement.py",
+      "target": "backend/services/life_thread_settlement.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_character_life_chain_integration.py",
+      "target": "tests/test_character_life_chain_integration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/sharing_reserve.py",
+      "target": "backend/services/sharing_reserve.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/proactive/triggers/sharing_reserve.py",
+      "target": "backend/proactive/triggers/sharing_reserve.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_sharing_reserve.py",
+      "target": "tests/test_sharing_reserve.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/preference_evolution.py",
+      "target": "backend/services/preference_evolution.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_preference_evolution.py",
+      "target": "tests/test_preference_evolution.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/character_fsm.py",
+      "target": "backend/services/character_fsm.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/services/fsm_activity_timeline.py",
+      "target": "backend/services/fsm_activity_timeline.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_character_fsm_v1.py",
+      "target": "tests/test_character_fsm_v1.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/context_arbitration.py",
+      "target": "backend/agents/context_arbitration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_context_arbitration.py",
+      "target": "tests/test_context_arbitration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_context_decision_prompt_integration.py",
+      "target": "tests/test_context_decision_prompt_integration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../backend/integrations/comfyui.py",
+      "target": "backend/integrations/comfyui.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_comfyui_integration.py",
+      "target": "tests/test_comfyui_integration.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/legacy_source/README.md",
+      "target": "tests/legacy_source/README.md"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../tests/test_token_probe.py",
+      "target": "tests/test_token_probe.py"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../.understand-anything/knowledge-graph.json",
+      "target": ".understand-anything/knowledge-graph.json"
+    },
+    {
+      "document": "docs/PROJECT-MAP.md",
+      "original": "../.understand-anything/meta.json",
+      "target": ".understand-anything/meta.json"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.22.md",
+      "original": "../../backend/agents/prompt/templates/layer_c_stable.j2",
+      "target": "backend/agents/prompt/templates/layer_c_stable.j2"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.22.md",
+      "original": "../../backend/agents/chat.py",
+      "target": "backend/agents/chat.py"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.22.md",
+      "original": "../../backend/agents/prompt/templates/layer_b.j2",
+      "target": "backend/agents/prompt/templates/layer_b.j2"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.94.md",
+      "original": "../../frontend/src/hooks/useAudio.ts#L621",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.94.md",
+      "original": "../../backend/asr/whisper.py#L147",
+      "target": "backend/asr/whisper.py"
+    },
+    {
+      "document": "docs/product/HISTORY-momo-prd-v0.94.md",
+      "original": "../../backend/mcp/browser_login.py",
+      "target": "backend/mcp/browser_login.py"
+    },
+    {
+      "document": "docs/product/SPEC-momo-next-details.md",
+      "original": "../../frontend/src/hooks/useAudio.ts#L621",
+      "target": "frontend/src/hooks/useAudio.ts"
+    },
+    {
+      "document": "docs/product/SPEC-momo-next-details.md",
+      "original": "../../backend/asr/whisper.py#L147",
+      "target": "backend/asr/whisper.py"
+    },
+    {
+      "document": "docs/product/SPEC-momo-next-details.md",
+      "original": "../../backend/mcp/browser_login.py",
+      "target": "backend/mcp/browser_login.py"
+    },
+    {
+      "document": "docs/research/assistant-upgrade-sources-2026-10-23.md",
+      "original": "fts5-probe-2026-10-23.py",
+      "target": "docs/research/fts5-probe-2026-10-23.py"
+    },
+    {
+      "document": "docs/research/assistant-upgrade-sources-2026-10-23.md",
+      "original": "../validation/fts5-probe-2026-10-23.json",
+      "target": "docs/validation/fts5-probe-2026-10-23.json"
+    }
+  ],
+  "repository_specific_files": [
+    "README.md",
+    "AGENTS.md",
+    ".gitignore",
+    "references/LEGACY-AGENTS.md",
+    "references/REVIEW.md",
+    "references/SOURCE-REFERENCES.md",
+    "references/PACKAGE-CHECKS.json"
+  ],
+  "format_normalization": "Markdown intentional hard breaks use backslash; trailing whitespace and terminal blank lines removed."
+}

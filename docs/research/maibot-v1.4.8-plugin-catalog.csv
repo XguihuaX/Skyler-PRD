@@ -1,0 +1,468 @@
+﻿名称,市场分类,插件版本,宿主最低版本,宿主最高版本,声明覆盖麦麦1.4.8,SDK最低版本,SDK最高版本,索引所列版本已屏蔽,代码仓库,市场标识
+麦麦绘卷（Claude MAInet）,creative,4.6.9,1.3.11,1.4.99,是,2.15.0,2.99.99,否,https://github.com/1021143806/mais_art_journal,1021143806.mais_art_journal
+表情包智能审核,chat,1.1.1,1.3.0,1.3.99,否,2.4.0,2.99.99,否,https://github.com/1250589385/emoji-smart-audit,1250589385.emoji-smart-audit
+喊你睡觉,extension,1.0.2,1.0.0,1.11.1,是,1.0.0,2.99.99,否,https://github.com/Emaginations/Nightmare,1m.nightmare
+日志小窥,management,1.0.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/Emaginations/WhatsMaiLog,1m.whatsmailog
+A_TTS_plugin,,1.1.3,1.0.0,1.0.10,否,2.5.2,2.99.99,否,https://github.com/A-Dawn/A_TTS_Plugin,a-dawn.a-tts-plugin
+OAImage,,1.0.0,1.0.0,1.0.99,否,2.4.0,2.99.99,否,https://github.com/A-Dawn/OAImage,a-dawn.oaimage
+mai输出拟人强化,,0.7.0,1.3.19,1.3.99,否,2.9.0,2.21.99,否,https://github.com/Alcpare/maibot_chat_guard_plugin,Alcpare.chat_guard
+发散搜索结果,,1.0.1,1.3.19,1.3.99,否,2.9.0,2.21.99,否,https://github.com/Alcpare/maibot_divergent_search_plugin,Alcpare.divergent_search
+身份认知,,1.2.0,1.3.19,1.4.99,是,2.9.0,2.22.99,否,https://github.com/Alcpare/maibot_identity_plugin,Alcpare.identity
+私聊必回复,tool,2.5.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/YanRuo630/always-reply-private,always-reply-private
+Skills 技能管理,management,0.4.3,1.3.14,1.3.16,否,2.16.0,2.16.99,否,https://github.com/Andself/maibot-skills-support,anse.skills-support
+麦麦的 B 站生活,integration,0.2.6,1.3.14,1.3.99,否,2.16.0,2.16.0,否,https://github.com/ANTINOVIA/maibot-bililife,antinova.maibot-bililife
+上下文挖掘器,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/clfr41/apcrote.context-miner,apcrote.context-miner
+何意味,,1.0.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/clfr41/apcrotedev.hyw,apcrotedev.hyw
+A_Mind 智能话题管理插件,,1.0.1,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/A-Dawn/A_Mind,ARC.A_Mind
+麦麦用codex CLI做任务,integration,1.0.0,1.0.0,1.99.99,是,2.5.2,2.99.99,否,https://github.com/Arcczr/maibot-codex-plugin,arcczr.remote-codex-agent
+想要引起注意的麦麦,,2.0.0,1.0.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/clfr41/attention-seeker-mai,attention-seeker-mai
+阿羽围棋复盘,integration,0.4.2,1.3.15,1.3.15,否,2.16.0,2.16.0,否,https://github.com/Toyaspio/GoReview,ayu.goreview
+回复标记插件,media,0.5.4,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/52-Moyna/maibot_plugin-Response,babyQ.maibot_reply-mark
+B站动态推送,media,2.6.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/beiyu504/beiyu_bilibili-dynamic-push,beiyu.bilibili-dynamic-push
+帮助指令聚合,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/beiyu504/beiyu.help-plugin,beiyu.help-plugin
+Steam 状态监控,extension,1.3.3,1.0.0,1.99.99,是,2.7.1,2.99.99,否,https://github.com/Blackwindy2333/Steam_Status_Monitor,blackbee.steam-status-monitor
+自动签到,integration,1.0.0,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/blissky/mai_autocheckin,blissky.autocheckin
+Mai RSS 订阅推送,,1.1.1,1.3.0,1.3.99,否,2.16.0,2.99.99,否,https://github.com/bluemika111/mai-rss,bluemika.mai-rss
+日记插件 (Diary Plugin),,3.0.1,0.10.2,1.99.99,是,2.3.0,2.99.99,否,https://github.com/bockegai/diary_plugin,bockegai.diary_plugin
+GameKnowledge,,1.0.5,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/bsyj/game-knowledge-plugin,bsyj.game-knowledge-plugin
+麦·LaTeX,extension,0.1.2,1.3.19,1.3.19,否,2.21.0,2.21.0,否,https://github.com/Caeruvis/MaiBot-LaTeX,caeruvis.latex
+NapCat 影子适配器,adapter,0.3.2,1.0.0,1.2.99,否,2.3.0,2.99.99,否,https://github.com/cateyemizuki/cateye_napcat_shadow_adapter,cateye.napcat-shadow-adapter
+GPT-SoVITS 语音插件,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/CGl123/gpt-sovits-voice-plugin,CGl123.gpt-sovits-voice-plugin
+DevinSearch,extension,0.2.0,1.0.12,1.3.99,否,2.7.0,2.16.99,否,https://github.com/CharTyr/MaiBot-Devin-WebSearch,chartyr.devinsearch
+Jev Planner 前置处理器,extension,0.4.0,1.0.12,1.3.99,否,2.7.0,2.16.99,否,https://github.com/CharTyr/MaiBot-JevPreprocessor,chartyr.jev-preprocessor
+Mai-Soul-Engine,extension,2.5.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/CharTyr/Mai-Soul-Engine,CharTyr.Mai-Soul-Engine
+Better Expression,,1.0.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/CharTyr/MaiBot-Better-Expression,CharTyr.MaiBot-Better-Expression
+CS2/CSGO HLTV 电竞信息插件,,6.2.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/CharTyr/Maibot_hltv_plugin,CharTyr.Maibot_hltv_plugin
+MaiWork,extension,0.17.1,1.0.0,1.4.99,是,2.8.1,2.21.0,否,https://github.com/CharTyr/MaiWork,chartyr.maiwork
+ChatGPT 订阅 (Codex),provider,0.3.9,1.3.0,1.3.99,否,2.6.0,999.999.999,否,https://github.com/ChenXi2542/maibot-codex-subscription,chenxi2542.maibot-codex-subscription
+F1 资讯插件,,1.5.5,1.0.12,1.4.99,是,2.7.0,2.23.99,否,https://github.com/Chi8wah/f1-info-plugin,chi8wah.f1-info-plugin
+机厅人数登记,,0.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/chuanchuan744/maibot-arcade-occupancy,chuanchuan744.arcade-occupancy
+Codex 绘图,,0.1.0,1.0.0,1.99.99,是,2.7.0,2.99.99,否,https://github.com/SawataLi/codex-draw,codex-draw
+Codex 额度重置提醒,,0.2.0,1.2.2,1.3.5,否,2.8.0,2.10.0,否,https://github.com/ShiinaWhite/Codex-Reset-Watcher,codex-reset.watcher
+每日60秒新闻,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Color2333/maibot-daily-news-plugin,Color2333.maibot-daily-news-plugin
+多平台链接解析,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Color2333/maibot-multi-platform-parser,Color2333.maibot-multi-platform-parser
+邮件适配器（Email Adapter）,adapter,0.1.2,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/yufei-pan/maibot-email-adapter,com.0-hz.email-adapter
+网页抓取 (Fetch URL),,0.4.4,1.2.5,1.3.99,否,2.8.1,2.16.99,否,https://github.com/yufei-pan/maibot-fetch-url-plugin,com.0-hz.fetch-url
+智能入站图片重压缩,,0.2.5,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/yufei-pan/maibot-image-recompress,com.0-hz.image-recompress
+印象卡片 (Impression Card),,0.3.6,1.2.5,1.3.99,否,2.8.1,2.16.99,否,https://github.com/yufei-pan/maibot-impression-card-plugin,com.0-hz.impression-card
+麦麦深度调查组 (Lunagentic Research Swarm),,0.2.3,1.2.5,1.3.99,否,2.8.1,2.16.99,否,https://github.com/yufei-pan/maibot-lunagentic-research-swarm,com.0-hz.lunagentic-research-swarm
+麦书 (MaiBook),,0.1.6,1.2.5,1.3.99,否,2.8.1,2.16.99,否,https://github.com/yufei-pan/maibook-plugin,com.0-hz.maibook
+神经闭环反馈,extension,1.3.5,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/yufei-pan/maibot-corpus-callosum,com.0-hz.maibot-corpus-callosum
+maifetch（麦麦状态）,,0.2.0,1.3.1,1.3.99,否,2.8.2,2.16.99,否,https://github.com/yufei-pan/maibot-maifetch,com.0-hz.maifetch
+塑料内存条 (Plastic Memory),,0.4.8,1.2.5,1.3.99,否,2.8.1,2.16.99,否,https://github.com/yufei-pan/MaiBot-plastic-memory-plugin,com.0-hz.plastic-memory
+麦麦 RSS 阅读器,,0.4.3,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/yufei-pan/MaiBot-rss-reader,com.0-hz.rss-reader
+恕我直言（Side Reply Channel）,,0.2.0,1.2.0,1.3.99,否,2.8.0,2.16.99,否,https://github.com/yufei-pan/maibot-side-reply-channel,com.0-hz.side-reply-channel
+世界时钟（World Clock）,,0.1.1,1.0.0,1.3.99,否,2.5.1,2.16.99,否,https://github.com/yufei-pan/maibot-world-clock,com.0-hz.world-clock
+自动群签到,integration,1.0.7,1.0.0,99.99.99,是,1.0.0,99.99.99,否,https://github.com/laoin114514/autoGroupSign,com.auto.group-sign
+麦麦寻人,tool,0.9.21,1.0.0,1.9.999,是,2.6.0,999.999.999,否,https://github.com/fsqhn2/com.fsqhn.image-searcher,com.fsqhn.image-searcher
+iMessage 连接器 / iMessage Adapter,adapter,0.1.5,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/mayan613/MaiBot-iMessage-Adapter,com.galeros.imessage_adapter
+作家助手拼字房,integration,0.1.1,1.3.9,1.3.99,否,2.14.0,2.99.99,否,https://github.com/kilo-s/maibot-zuojia-room,com.kilos.zuojia-room
+麦麦好感度,extension,1.1.2,1.3.3,1.99.99,是,2.8.1,2.99.99,否,https://github.com/MoonlyCake/maibot-affection,com.local.mai-affection
+多平台链接解析器,media,1.4.4,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/jh-mmm/maibot-link-parser,com.maibot.link-parser
+Minecraft 适配器,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/TGBUG/MaiBot-MineCraft-Adapter,com.maibot.minecraft-adapter
+麦麦掉线通知,tool,1.1.0,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/octmicy/offline_notify,com.maimai.offline-notify
+个人备忘助手,tool,1.0.0,1.3.0,1.3.99,否,2.5.0,2.21.99,否,https://github.com/LDrumDusk/maibot_personal_assistant,com.maimai.personal-assistant
+聊天图片收藏,tool,1.0.1,1.3.0,1.3.99,否,2.5.0,2.21.99,否,https://github.com/LDrumDusk/maibot_pic_collector,com.maimai.pic-collector
+宿主机状态图,extension,1.0.3,1.3.12,1.3.99,否,2.12.0,2.16.99,否,https://github.com/MoonlyCake/maibot-host-status-plugin,com.moonlycake.host-status
+群友蒸馏资料收集,extension,1.2.0,1.3.12,1.3.99,否,2.12.0,2.16.99,否,https://github.com/MoonlyCake/maibot-member-distiller,com.moonlycake.member-distiller
+麦麦小红书,adapter,0.1.5,1.3.16,1.3.99,否,2.16.0,2.16.99,否,https://github.com/neal240/maibot-xiaohongshu,com.neal240.xiaohongshu
+麦麦vw50,extension,2.2.0,1.0.0,1.3.99,否,2.5.0,2.99.99,否,https://github.com/octmicy/vw50_sponsor,com.octmicy.vw50
+出站消息过滤器(Filter-sama),,1.2.0,1.2.0,1.3.99,否,2.6.0,2.99.99,否,https://github.com/ValleyWinds/Filter-sama,com.valleywinds.filter-sama
+报错日志推送,integration,1.0.0,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/ZHIGENGNIAO258/error-notify,com.zhigengniao258.error-notify
+战舰世界战绩查询,game,1.3.0,1.0.0,1.3.99,否,2.6.0,2.16.99,否,https://github.com/BYYH-5316/MaiByWowsYoyukoBot,community.wows-yuyuko
+麦麦饭卡,automation,1.6.1,1.3.0,1.4.99,是,2.10.0,2.99.99,否,https://github.com/CSSQY/mai_meal_card,cssqy.mai-meal-card
+Run Time Tracker Plugin,,1.2.2,1.3.0,1.4.99,是,2.9.0,2.99.99,否,https://github.com/CSSQY/RunTime_Tracker_Plugin,CSSQY.RunTime_Tracker_Plugin
+Token 用量统计与播报,,1.11.2,1.3.0,1.4.99,是,2.9.0,2.99.99,否,https://github.com/CSSQY/token_usage_report,cssqy.token-usage-report
+Fish Audio TTS Voice Clone (Pro),media,1.2.0,1.0.0,1.9.99,是,1.0.0,2.99.99,否,https://github.com/met-tk/maibot-fishaudio-voice-pro,custom.maibot-fishaudio-voice-pro
+模型路由插件 (Model Router Plugin),,1.0.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/chengxuanchengyu-afk/model_router_plugin,CXCY_model_router_plugin
+API 余额查询,,1.2.0,1.0.0,2.99.99,是,2.0.0,2.99.99,否,https://github.com/DavidBlackCN/maibot-api-balance-plugin,davidblackcn.maibot-api-balance-plugin
+麦麦财务总结插件,,1.0.2,1.0.0,1.99.99,是,2.6.0,2.99.99,否,https://github.com/DavidBlackCN/maibot-expenses-summary-plugin,davidblackcn.maibot-expenses-summary-plugin
+maibot-message-react-plugin - 麦麦贴表情,tool,2.1.1,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/DavidBlackCN/maibot-message-react-plugin,davidblackcn.maibot-message-react-plugin
+自然语言提醒,,0.3.0,1.2.0,1.2.99,否,2.0.0,2.99.99,否,https://github.com/DCY501/maibot-reminder-plugin,dcy501.reminder
+头像获取插件 (Avatar Fetcher Plugin),,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/avatar_fetcher_plugin,deepseek-v4-pro.avatar-fetcher-plugin
+量子时空拓扑与跨维度时间同步引擎,,1.0.0,1.0.0,99.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/chrono_temporal_sync,deepseek-v4-pro.chrono-temporal-sync
+EKU猫耳魔法少女の免费鸡蛋,,1.0.0,1.0.0,99.0.0,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/free_egg_distribution,DeepSeek-V4-pro.eku-egg-protocol
+群聊定时打卡,,2.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/Group-chat-automatically-opens,deepseek-v4-pro.Group-chat-automatically-opens
+生活行为参考,,1.1.0,1.0.0,99.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/life_behavior_reference,DeepSeek-V4-pro.life-behavior-reference
+群管理助手,,2.7.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/maimai_group_admin,deepseek-v4-pro.maimai-group-admin
+MaiMai DX 双源查分器,,3.3.2,1.0.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/maimaidx_prober,deepseek-v4-pro.maimaidx-prober
+音击抽卡模拟器,,1.3.8,1.0.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/ongeki_gacha,deepseek-v4-pro.ongeki-gacha
+オンゲキ 谱面查询器,,1.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/ongeki_prober,deepseek-v4-pro.ongeki-prober
+Phigros B30 查分器,,1.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/phigros-b30-plugin,deepseek-v4-pro.phigros-b30
+戳一戳自动回复插件,,1.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/poke-reply-plugin,deepseek-v4-pro.poke-reply-plugin
+麦麦私聊拟人化增强（深度优化版）,extension,1.6.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/private-humanizer,deepseek-v4-pro.private-humanizer
+Paradigm: Reboot 查分器,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/prp_prober,deepseek-v4-pro.prp-prober
+随机图片和色图插件（Random-image-api-for-MaiBot）,,2.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/nguspring_random-image-api-for-maibot,deepseek-v4-pro.random-image-api-for-maibot
+插件自生成器,,0.2.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/self_writing_plugin,deepseek-v4-pro.self-writing-plugin
+天穹级语义自指回响引擎,,11.45.14,1.0.0,99.0.0,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/semantic_loopback_engine,deepseek-v4-pro.semantic-loopback
+运行信息查询,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DeepSeek-V4-Pro/system_info_plugin,deepseek-v4-pro.system-info-plugin
+SenseVoice STT 语音转文字,media,0.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DMJXMJ/maibot-sensevoice-stt,dmjxmj.sensevoice-stt
+MaiSing · 麦麦想唱歌,media,1.1.0,1.3.17,1.3.99,否,2.19.0,2.19.99,否,https://github.com/real-Elysia886/maibot-maising,elysia.sing.plugin
+MiMo TTS Voice Clone,,1.7.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/Emilia-awa/maibot-mimotts-voice,Emilia-awa.maibot-mimotts-voice
+maibot moepix,,1.1.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Emilia-awa/maibot-moepix,Emilia-awa.maibot-moepix
+Emoji Text Selector,,2.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/hsd221/maibot-plugin-emoji-text-selection,emoji-text-selection
+Telegram_Adapter,,1.3.1,1.0.0,1.9.9,是,2.0.0,2.99.99,否,https://github.com/exynos967/MaiBot-Telegram-Adapter,exynos967.telegram-adapter
+Aria2 / qBittorrent 磁链下载,tool,2.0.1,1.2.0,1.3.99,否,2.8.2,2.99.99,否,https://github.com/EzraRT/MaiBot-Aria2-Download,ezrart.magnet-downloads
+好感度系统,data,1.2.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/feiyunming/maibot-affection-system,feyumy.affection-system
+Bilibili 视频信息与 AI 总结,,0.1.10,1.4.3,1.4.99,是,2.22.1,2.99.99,否,https://github.com/FFDVDGD/bilibili-video-info,ffdvdgd.bilibili-video-info
+QQ 账号管理,tool,1.0.6,1.3.0,1.3.99,否,2.5.0,2.16.99,否,https://github.com/2451965602/maibot-qq-account-plugin,fjyxyz.qq-account
+梗鲸回复配图,media,1.0.6,1.3.0,1.3.99,否,2.5.0,2.21.99,否,https://github.com/2451965602/maibot-reply-meme-plugin,fjyxyz.reply-meme
+麦麦财务总结优化,utility,2.0.11,1.2.0,1.2.99,否,2.6.0,2.8.99,否,https://github.com/jiruiyu330784/maibot-expenses-summary-plus,fulawa.maibot-expenses-summary-plus
+QQBot 适配器 / QQBot Adapter,adapter,0.1.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/mayan613/MaiBot-QQBot-Adapter,galeros.qqbot-adapter
+群梗名片 (Group Meme Nickname),utility,1.0.0,1.3.0,1.3.9,否,2.10.0,2.14.0,否,https://github.com/geffnt/maibot-group-meme-nickname,geffnt.group-meme-nickname
+麦麦祝你生日快乐呀,tool,1.4.0,1.3.0,1.4.99,是,2.5.0,2.99.99,否,https://github.com/geffnt/maibot-birthday-plugin,geffnt.maibot-birthday-plugin
+星塔旅人攻略查询,tool,1.4.2,1.3.15,1.99.99,是,2.16.0,2.99.99,否,https://github.com/ggsfly/stellasora-plugin,ggsfly.stellasora-plugin
+群昵称守护,management,1.1.1,0.0.0,99.99.99,是,0.0.0,99.99.99,否,https://github.com/ghmk119/group-nickname-guard,ghmk119-group-nickname-guard
+进阶闲谈家,,0.1.0,1.0.0,1.0.10,否,2.5.3,2.99.99,否,https://github.com/A-Dawn/A_chatter,github.A-Dawn.a-chatter
+禁言报告(碎碎念),,1.0.0,1.0.0,1.0.10,否,2.5.2,2.99.99,否,https://github.com/A-Dawn/mute_report_murmur,github.A-Dawn.mute-report-murmur
+塔罗工坊,game,2.1.1,1.3.13,1.3.99,否,2.16.0,2.99.99,否,https://github.com/A0000Xz/MaiBot-Tarots-Plugin,github.a0000xz.maibot-tarots-plugin
+麦麦画师 · RunningHub,media,1.3.5,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/achenjins/runninghub-workflow-adapter,github.achenjins.runninghub-workflow-adapter
+游戏更新速报,integration,0.5.4,1.0.0,9.99.99,是,2.6.0,9.99.99,否,https://github.com/AirLibrax/game-update-watcher,github.airlibrax.game-update-watcher
+讨饭,game,1.1.1,1.3.0,1.4.99,是,2.16.0,2.23.99,否,https://github.com/Akenari011/maibot-beg-for-money,github.akenari011.beg-for-money
+开销统计,data,1.4.0,1.3.0,1.4.99,是,2.4.0,2.23.99,否,https://github.com/Akenari011/maibot-cost-report,github.akenari011.cost-report
+GPT-SoVITS 语音插件（优化版）,media,1.7.2,1.0.0,1.4.99,是,2.0.0,2.23.99,否,https://github.com/Akenari011/gpt-sovits-voice-plugin,github.akenari011.gpt-sovits-voice-plugin
+麦麦漫画,tool,1.2.0,1.4.0,1.4.99,是,2.16.0,2.23.99,否,https://github.com/Akenari011/maibot-manga,github.Akenari011.maibot-manga
+分群人格,extension,0.1.2,1.3.0,1.3.99,否,2.10.0,2.16.99,否,https://github.com/beichen24a1/MaiBot-GroupPersona,github.beichen24a1.group-persona
+梗百科,tool,0.1.0,1.3.0,1.3.99,否,2.0.0,2.16.99,否,https://github.com/beichen24a1/MaiBot-MemeWiki,github.beichen24a1.memewiki
+WorkBuddy 模型接入,provider,0.1.2,1.3.0,1.3.99,否,2.0.0,2.16.99,否,https://github.com/beichen24a1/MaiBot-WorkBuddy,github.beichen24a1.workbuddy
+麦麦钱包,tool,1.0.5,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/cateyemizuki/cateye_api_balance,github.cateye.api-balance
+更好的消息后处理,extension,2.5.2,1.4.0,1.4.99,是,2.20.0,2.99.99,否,https://github.com/cateyemizuki/cateye_better_post-processing,github.cateye.better-post-processing
+Ciallo～(∠・ω< )⌒★,tool,1.0.3,1.0.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/cateyemizuki/cateye_ciallo,github.cateye.ciallo
+麦麦不要再看那个了！,extension,1.0.6,1.0.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/cateyemizuki/cateye_custom_filter,github.cateye.custom-filter
+不要只说不干,extension,1.0.4,1.0.0,1.99.99,是,2.8.1,2.99.99,否,https://github.com/cateyemizuki/cateye_filter_assistant,github.cateye.filter-assistant
+以撒道具图鉴,game,0.2.10,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/cateyemizuki/cateye_isaac_item,github.cateye.isaac.item
+智械危机,extension,1.2.4,1.0.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/cateyemizuki/cateye_machine_crisis,github.cateye.machine-crisis
+麦麦转发,tool,0.1.5,1.0.0,1.4.99,是,2.5.0,2.99.99,否,https://github.com/cateyemizuki/cateye_mai_forward,github.cateye.mai-forward
+夺舍麦麦,,1.4.7,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/cateyemizuki/cateye_mai_personality_swap,github.cateye.mai-personality-swap
+麦麦要换头像,extension,1.0.2,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/cateyemizuki/cateye_mai_set_avatar,github.cateye.mai.set_avatar
+麦麦撤回,tool,0.2.0,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/cateyemizuki/cateye_maimai_recall,github.cateye.maimai-recall
+SCP 条目查询,data,0.3.5,1.3.19,1.3.99,否,2.20.0,2.20.99,否,https://github.com/cateyemizuki/cateye_scp_article,github.cateye.scp-article
+表情回应,tool,0.3.4,1.2.0,1.4.7,否,2.7.1,2.99.99,否,https://github.com/cateyemizuki/cateye_set_msg_emoji_like_api_modify,github.cateye.set-msg-emoji-like
+森空岛签到,tool,1.2.1,1.0.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/cateyemizuki/cateye_skland_sign,github.cateye.skland.sign
+NGA帖子阅读器插件 (NGA Thread Reader Plugin),,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ChangingSelf/maibot-nga-thread-reader-plugin,github.changingself.maibot-nga-thread-reader-plugin
+塔罗牌占卜,game,2.0.0,1.3.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Chenhui-2/mai-tarot,github.Chenhui-2.mai-tarot.plugin
+MaiBot QQ Voice Call,adapter,0.3.4,1.0.0,1.99.99,是,2.5.4,2.99.99,否,https://github.com/ClaudiaGardner/maibot-qq-voice-call,github.claudiagardner.maibot-qq-voice-call
+Emoji 过滤器,extension,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/daemoku/maibot-emoji-filter,github.daemoku.emoji-filter
+Milky 协议适配器,adapter,1.0.2,1.3.18,1.4.99,是,2.19.0,2.22.99,否,https://github.com/DeconstructedCube/maibot-plugin-milky,github.deconstructedcube.maibot-plugin-milky
+maibot-mood 在线搜索和发图,,1.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/DisguisedFrogs/Maibot_Picture_search,github.DisguisedFrogs.maibot-mood
+DiceFrame Bridge,integration,0.2.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/EOEOY/diceframe-bridge,github.eoeoy.diceframe-bridge
+mai is mortis（麦麦是多首的怪物）,extension,1.0.2,1.0.0,1.99.99,是,2.10.0,2.99.99,否,https://github.com/erhan111119/mai-is-mortis,github.erhan111119.mai-is-mortis
+B站搬史机（mai repost shit）,media,1.2.2,1.3.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/erhan111119/mai-repost-shit,github.erhan111119.mai-repost-shit
+GIF 动图识别（Read GIF）,media,0.1.2,1.3.5,999.999.999,是,2.10.0,999.999.999,否,https://github.com/fabiocsa/maibot-read-gif,github.fabiocsa.read-gif
+Bangumi 动漫高手插件,,1.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/FFFold/bangumi_browse_plugin,github.fffold.bangumi-browse-plugin
+绝地潜兵2情报助手,game,1.2.2,1.0.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/fiatlux2333/maibot_plugin_Helldivers,github.fiatlux2333.hd2-helper
+QQ 名片点赞,tool,1.0.3,1.2.0,1.4.99,是,2.7.1,2.99.99,否,https://github.com/FleetingEternity-qyt/maibot-qq-like,github.FleetingEternity-qyt.qq-like
+礼貌性沉默,management,1.1.0,1.3.0,1.3.99,否,2.6.0,2.99.99,否,https://github.com/GYyxjsj/maibot-plugin_polite_silence,github.gyyxjsj.polite-silence
+WeKnora 知识库检索,data,1.1.0,1.3.0,1.3.99,否,2.7.0,2.99.99,否,https://github.com/GYyxjsj/weknora_qa_plugin,github.gyyxjsj.weknora-qa
+OMP Agent 插件,tool,1.2.1,1.3.0,1.4.99,是,2.0.0,2.99.99,否,https://github.com/HaoxiangXia/maibot-omp-plugin,github.haoxiangxia.omp-agent
+MaiBot 戳一戳插件,tool,1.2.2,1.0.6,2.0.0,是,2.7.0,2.99.99,否,https://github.com/happycola233/maibot-poke-plugin,github.happycola233.maibot-poke-plugin
+Milo bot · Warframe 助手,tool,1.0.0,1.3.19,1.4.99,是,2.21.0,2.23.99,否,https://github.com/hataxin/milobot-warframe,github.hataxin.milobot-warframe
+人格定时/口令切换,,1.0.1,1.0.0,1.3.99,否,2.0.0,2.14.99,否,https://github.com/heiye-hxy/ai,github.heiye-hxy.persona-switch
+没叫你别说话,,1.0.0,1.3.0,1.3.99,否,2.5.0,2.99.99,否,https://github.com/Hekat87/maibot-group-wake,github.hekat87.group-wake
+别回复机器人,,1.0.0,1.3.0,1.3.99,否,2.5.0,2.99.99,否,https://github.com/Hekat87/maibot-mute-user,github.hekat87.mute-user
+Google Vertex AI Connect,provider,0.3.0,1.3.14,1.4.99,是,2.16.0,2.98.99,否,https://github.com/HH233333/vertexai-maibot-connect,github.HH233.vertexai-maibot-connect
+B站学梗 / Bilibili Meme Learner,integration,1.1.0,1.3.0,1.3.99,否,2.19.0,2.20.99,否,https://github.com/hhhhhhezeus/bilibili-meme,github.hhhhhhezeus.bilibili-meme
+MaiJam 群聊协作乐队,media,0.1.2,1.3.16,1.3.99,否,2.20.0,2.20.99,否,https://github.com/hhhhhhezeus/MaiJam,github.hhhhhhezeus.maijam
+麦麦盲测局,game,1.0.1,1.3.16,1.3.99,否,2.19.0,2.20.99,否,https://github.com/hhhhhhezeus/maimai-blind-test,github.hhhhhhezeus.maimai-blind-test
+MaiBot GitHub Subscriber,integration,1.3.0,1.3.17,1.3.99,否,2.19.0,2.98.99,否,https://github.com/HK560/Maibot-GitHub-Subscriber,github.hk560.github-subscriber
+GPT-SoVITS 语音合成,,1.0.0,1.3.6,1.4.99,是,2.20.0,2.21.99,否,https://github.com/hualuoo/MaiBot-GPT-SoVITS,github.hualuoo.maibot-gpt-sovits
+邻舍.EXE桥接适配器————为了ComfyUI自动生成图片这碟醋你想来包顿饺子吗？,adapter,1.3.1,1.0.0,99.99.99,是,2.0.0,2.99.99,否,https://github.com/icecranberry/linshe-maibot-adapter,github.icecranberry.linshe-bridge
+麦麦很好奇（Memory Keeper）,data,0.1.8,1.3.0,1.3.99,否,2.8.0,2.16.99,否,https://github.com/JiaKeJu/maibot-curator,github.jiakeju.maibot-curator
+麦麦不贪吃（Token Ledger）,data,0.1.2,1.3.0,1.3.99,否,2.8.0,2.21.99,否,https://github.com/JiakeJu/maibot-ledger,github.jiakeju.token-ledger
+番茄小说下载插件,,1.4.6,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/kumburovicbranko682-boop/maibot-fanqie-novel-downloader,github.kumburovicbranko682-boop.fanqie-novel-downloader
+图片重看,,1.0.4,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/kumburovicbranko682-boop/maibot-image-relook,github.kumburovicbranko682-boop.image-relook
+MaiBot 人设优化器,,1.0.0,1.0.12,1.99.99,是,2.7.0,2.99.99,否,https://github.com/kumburovicbranko682-boop/maibot-persona-optimizer,github.kumburovicbranko682-boop.persona-optimizer
+机器人自回复硬拦截,,1.3.1,0.0.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/kumburovicbranko682-boop/maibot-self-reply-guard,github.kumburovicbranko682-boop.self-reply-guard
+麦麦塔罗,extension,1.1.6,1.0.5,1.99.99,是,2.5.2,2.99.99,否,https://github.com/kuuri-krtt/Mai_tarots,github.kuuri-krtt.mai_tarots
+Codex 额度重置通知,automation,1.0.0,1.0.0,1.9.99,是,2.8.0,2.90.99,否,https://github.com/lava-xa/codex-reset_notify_plugin,github.lava-xa.codex-reset_notify_plugin
+主动对话 (Proactive Chat),chat,1.0.1,1.3.0,1.4.99,是,2.0.0,2.99.99,否,https://github.com/lin-414/maibot_plugin_proactive_chat,github.lin-414.proactive-chat
+CAYRememberYou（跨群记忆）,data,3.9.0,1.3.6,1.4.99,是,2.9.0,2.21.99,否,https://github.com/Ling-CAY/PROJECT-CAY,github.ling-cay.cayrememberyou
+视频解析Bot,media,2.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Ling-LA/ling-video-bot,github.ling-la.ling-video-bot
+麦之诗(界面风格),other,0.1.5,1.3.18,1.3.18,否,2.19.0,2.19.0,否,https://github.com/Littlesleepy/maizhishi-theme,github.littlesleepy.maizhishi-theme
+豆包搜索,integration,0.1.0,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/LowValueTarget777/maibot-doubao-search,github.lowvaluetarget777.doubao-search
+属于是猎杀者,extension,1.0.1,1.0.0,3.99.99,是,2.5.1,2.99.99,否,https://github.com/MorphieEndless/maibot-shuyushi-slayer,github.morphieendless.shuyushi-slayer
+苏醒吧麦麦！,management,1.3.1,1.3.0,1.3.99,否,2.16.0,2.99.99,否,https://github.com/NatsuYutori/wake-up-maimai,github.natsuyutori.wake-up-maimai
+Nitter 推文转发,integration,1.8.3,1.1.4,1.99.99,是,2.7.1,2.99.99,否,https://github.com/Nero-UMU/NitterToMaiBot,github.nero-umu.nitter-to-maibot
+麦麦我真得控制你了,game,1.2.0,1.3.0,1.4.99,是,2.5.0,2.23.99,否,https://github.com/NetaJuutilainen/maibot_immersive_control_plugin,github.netajuutilainen.immersive-control
+麦麦赛博讨口子,tool,1.3.1,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/NetaJuutilainen/Maibot_plugin_payqr,github.netajuutilainen.payqr
+麦麦期货模拟盘,automation,0.8.7,1.3.13,1.3.99,否,2.21.0,2.21.99,否,https://github.com/NethielChou/maibot-futures-sim,github.nethielchou.mai-futures-sim
+麦麦炒外汇,game,0.3.4,1.3.13,1.4.99,是,2.21.0,2.22.99,否,https://github.com/NethielChou/maibot-fx-sim,github.nethielchou.mai-fx-sim
+Better Reply 首条引用,chat,1.0.1,1.3.19,1.3.99,否,2.20.0,2.99.99,否,https://github.com/OLDnana1/maibot-better-reply,github.OLDnana1.better-reply
+Edge TTS 免费语音,media,1.0.1,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/OLDnana1/maibot-edge-tts,github.OLDnana1.edge-tts
+点歌插件,integration,1.8.0,1.0.0,1.4.5,否,2.5.0,2.23.0,否,https://github.com/orge-8/music-request,github.orge-8.music-request
+音乐插件,,1.4.7,1.0.9,1.99.99,是,2.5.1,2.99.99,否,https://github.com/pan-ice/maibot-music,github.pan-ice.music
+投喂插件,,1.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/pan-ice/feed-bot,github.pan-ice.plugins-feed-bot
+群友语录,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/pan-ice/plugins-uumessage,github.pan-ice.plugins-uumessage
+目标 QQ 表达方式学习,,2.0.0,1.0.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/Parssce-lgtm/target-qq-style-learner-plugin,github.Parssce-lgtm.target-qq-style-learner
+JEV 接话判断,chat,1.5.0,1.4.0,1.4.99,是,2.22.0,2.99.99,否,https://github.com/Pawnnwap/maibot-jev-reply-gate,github.pawnnwap.jev-reply-gate
+钓鱼小游戏,game,1.0.2,1.3.19,1.3.19,否,2.20.0,2.20.0,否,https://github.com/PPPALab/maibot_plugin_fishing,github.PPPALab.maibot_plugin_fishing
+群聊语录库,other,1.2.3,1.3.19,1.4.0,否,2.20.0,2.99.99,否,https://github.com/PPPALab/maibot_plugin_quote,github.PPPALab.maibot_plugin_quote
+表情包制作,media,0.2.0,1.3.19,1.3.19,否,2.20.0,2.20.0,否,https://github.com/PPPALab/maibot_plugin_meme_generator_bridge,github.pppalab.meme-generator-bridge
+真心话大冒险,,2.6.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/qianzhibest/maibot-truth-dare-plugin,github.qianzhibest.maibot-truth-dare-plugin
+DSH 远程桥接,integration,1.6.4,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/qiaozhixiang/dsh-remote-bridge,github.qiaozhixiang.dsh-remote-bridge
+办公文件工具箱,tool,1.2.7,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/qiaozhixiang/office-toolkit-dist,github.qiaozhixiang.office-toolkit
+角色知识,,1.0.5,1.0.0,1.99.99,是,2.7.0,2.99.99,否,https://github.com/QlzqQlzq/character-knowledge-plugin,github.QlzqQlzq.character-knowledge-plugin
+雀练 · 麻将文字训练,extension,1.0.1,1.0.12,1.99.99,是,2.5.4,2.99.99,否,https://github.com/QlzqQlzq/MaiBot-Mahjong-Quiz-Plugin,github.QlzqQlzq.mahjong-quiz-plugin
+小模型决策兜底,,0.1.16,1.0.0,1.3.99,否,2.0.0,2.9.99,否,https://github.com/QlzqQlzq/maibot-planner-reply-fixer,github.QlzqQlzq.planner-reply-fixer
+基于知识库的动态人设,,1.0.0,1.0.12,1.0.99,否,2.7.0,2.99.99,否,https://github.com/QlzqQlzq/role-memory-plugin,github.QlzqQlzq.role-memory-plugin
+随机算卦,,1.2.0,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/QlzqQlzq/MaiBot-SG-Divination-Plugin,github.QlzqQlzq.sg-divination-plugin
+麦麦点歌增强,tool,1.3.2,1.3.15,1.3.99,否,2.16.0,2.21.0,否,https://github.com/Qrzzzz/maibot-music-enhanced,github.qrzzzz.music-enhanced
+视频识眼,media,1.0.1,1.3.0,999.999.999,是,2.6.0,999.999.999,否,https://github.com/SaltinAnon/maibot-video-vision,github.saltinanon.video-vision
+麦麦统计图表！,data,0.1.3,1.3.0,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/statistics-chart-plugin,github.sengokucola.statistics-chart-plugin
+后室:逃出生天,,1.2.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/silencieuxzero/backrooms_escape,github.silencieuxzero.backrooms-escape
+生日快乐，麦麦,extension,1.1.0,1.3.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/SodaCodeSave/MaiBot-Birthday-Plugin,github.sodacodesave.birthday-plugin
+API 聚合,extension,1.0.7,1.3.16,1.4.99,是,2.16.0,2.99.99,否,https://github.com/sora-maru/maibot_plugin_apis,github.sora-maru.apis
+Bilibili 动态与直播订阅,,1.1.0,1.4.4,1.4.99,是,2.23.0,2.99.99,否,https://github.com/sora-maru/maibot_plugin_bilibili,github.sora-maru.bilibili
+个人备忘助手 WebUI,tool,1.3.0,1.4.7,1.4.99,是,2.23.0,2.23.99,否,https://github.com/sora-maru/maibot_plugin_personal_assistant_webui,github.sora-maru.personal-assistant-webui
+MiMo TTS 语音回复,media,0.7.0,1.3.0,1.3.99,否,2.12.0,2.12.99,否,https://github.com/SoulString-Dev/maibot-mimo-voice,github.SoulString-Dev.maibot-mimo-voice
+刷小黑盒,integration,0.14.2,1.3.6,1.3.99,否,2.12.0,2.99.99,否,https://github.com/tang-bai/heybox-operator,github.tang-bai.heybox-operator
+麦麦日常图文空间,automation,0.1.7,1.3.19,1.3.99,否,2.21.0,2.21.99,否,https://github.com/tang-bai/maibot-daily-life,github.tang-bai.maibot-daily-life
+短期记忆,data,1.0.4,1.3.0,1.3.99,否,2.16.0,2.19.99,否,https://github.com/TanTan-yyds/maibot-short-term-memory,github.tantan-yyds.short-term-memory
+麦麦刷B站,integration,2.0.0,1.3.0,1.3.99,否,2.9.0,2.20.99,否,https://github.com/TommyAAKK/maibot-bilibili-interest-share,github.TommyAAKK.bilibili_interest_share
+我，deepseek,data,2.0.0,1.3.0,2.0.0,是,2.9.0,3.0.0,否,https://github.com/TommyAAKK/maibot-I-deepseek,github.TommyAAKK.maibot-I-deepseek
+绝地潜兵 2：民主帮你选择,game,0.4.2,1.0.0,1.4.99,是,2.7.1,2.22.99,否,https://github.com/TouristH/Helldivers2DemocracyChooses,github.touristh.helldivers2-democracy-chooses
+Gemini Turn Guard,extension,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/tsuiraku9/maibot-gemini-turn-guard,github.tsuiraku9.gemini-turn-guard
+照片定位识别,tool,1.0.0,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/windowsnoeditor/photo_geolocation_plugin,github.windowsnoeditor.photo_geolocation_plugin
+新闻三要素,creative,1.29.0,1.3.13,1.4.99,是,2.7.0,2.99.99,否,https://github.com/winincorce-a11y/MaiBot-NewsThreeElements,github.winincorce-a11y.news-three-elements
+发言频率控制,management,1.1.3,1.3.0,1.3.99,否,2.19.0,2.99.99,否,https://github.com/winincorce-a11y/mai-talk-rate,github.winincorce-a11y.talk-rate
+日期上下文插件,,1.4.6,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xiexiaojia780/date_context_plugin,github.xiexiaojia780.date-context-plugin
+文件阅读插件,,1.2.9,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xiexiaojia780/file_reader_plugin,github.xiexiaojia780.file-reader-plugin
+Grok X 搜索工具,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xiexiaojia780/grok-x-search,github.xiexiaojia780.grok-x-search
+视频内容概括插件,,1.1.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xiexiaojia780/video_summary_plugin,github.xiexiaojia780.video-summary-plugin
+年上陪伴主动对话,,0.2.0,1.1.0,1.99.99,是,2.5.4,2.99.99,否,https://github.com/yudanpi/mai-companion,github.yudanpi.mai-companion
+AI Draw 图片生成插件,,2.4.9,1.0.0,1.4.0,否,2.5.0,2.99.0,否,https://github.com/yueshenqiu/ai_draw_plugin,github.yueshenqiu.ai-draw-plugin
+Reply Integrity,chat,1.3.2,1.2.0,1.3.19,否,2.7.1,2.21.0,否,https://github.com/Zerlight/maibot-reply-integrity,github.zerlight.reply-integrity
+鹿管记录插件,,1.4.1,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/zfgy-ma/Deer_Pipe_table_plugin,github.zfgy.deer-pipe-table
+豆包语音TTS（新版控制台）,extension,1.7.1,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/doubao-tts,github.ZhaoCang-QWQ.doubao-tts
+关键词表情包替换,extension,1.2.0,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/keyword-sticker-replace,github.ZhaoCang-QWQ.keyword-sticker-replace
+峰谷时段省钱调度,extension,0.3.1,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/model-scheduler,github.ZhaoCang-QWQ.model-scheduler
+撤回跟随,extension,0.5.0,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/recall-follow,github.ZhaoCang-QWQ.recall-follow
+关系状态表,extension,0.4.7,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/social-state,github.ZhaoCang-QWQ.social-state
+主动敲门 (Proactive Ping),extension,0.3.0,1.3.0,1.9.99,是,2.20.0,2.99.99,否,https://github.com/zzy-fxxxexxxyxxx/maibot-plugin-proactive-ping,github.zzy-fxxxexxxyxxx.proactive-ping
+DeepSeek 联网搜索,tool,1.0.0,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/glcoge/deepseek-web-search,glcoge.deepseek-web-search
+AnySearch 实时搜索,,0.2.0,1.0.0,1.99.99,是,2.7.0,2.99.99,否,https://github.com/gomico/maibot_plugin_anysearch,gomico.anysearch-plugin
+麦麦看到你了！,,0.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/jiruiyu330784/group-awareness-plugin,group-awareness-plugin
+麦麦喊新人说话！,,0.2.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/jiruiyu330784/group-probation-plugin,group-probation-plugin
+麦麦留步,,0.3.0,1.3.13,1.3.99,否,2.16.0,2.19.99,否,https://github.com/gsskk/maibot-plugin-followup,gsskk.followup-window
+聊天风格转译,,0.20.0,1.0.0,1.99.99,是,2.7.1,2.99.99,否,https://github.com/haitai-git/chat-style-translator-plugin,haitai-git.chat-style-translator
+QQ 实时语音,,0.4.0,1.3.6,999.999.999,是,2.12.0,999.999.999,否,https://github.com/hatsuhoq/maibot-qq-voice-call,hatsuhoq.maibot-qq-voice-call
+GPT-SoVITS V2 TTS,extension,3.2.0,1.0.0,1.99.99,是,2.5.2,2.99.99,否,https://github.com/Shiroha135/GPT-SoVITS-v2-TTS-Plugin,hatsuyukiaya.gpt-sovits-v2-tts
+复读插件,extension,2.0.1,1.0.0,3.99.99,是,2.5.1,2.99.99,否,https://github.com/Heximiao/repeat_plugin,Heximiao.repeat_plugin
+MaiBot Agy（反重力額度）,provider,0.1.0,1.4.0,1.4.99,是,2.19.0,2.99.99,否,https://github.com/sunfish1728/maibot-antigravity,hhjju.maibot-antigravity
+刷会儿手机,game,0.3.3,1.4.0,1.4.99,是,2.21.0,2.23.99,否,https://github.com/hatsuhoq/maibot-phone-play,hohoko-chan.phone-play
+兑换码发放,tool,1.3.4,1.3.0,999.999.999,是,2.5.2,999.999.999,否,https://github.com/houlong5071/redeem-code-distributor,houlong5071.redeem-code-distributor
+SearXNG Search,,1.0.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/hsd221/maibot-plugin-searxng-search,hsd221.searxng-search
+MaiWeave · 麦织｜角色生活引擎,chat,0.12.6,1.3.19,1.4.99,是,2.21.0,2.23.99,否,https://github.com/ilworkcn/MaiWeave,ilworkcn.maiweave
+OpenAI OAuth · 麦麦账号连接,provider,0.1.2,1.4.0,1.4.99,是,2.23.0,2.23.99,否,https://github.com/ilworkcn/OpenAI-OAuth-MaiMbot,ilworkcn.openai-oauth
+Telegram_Adapter_Plus,adapter,1.1.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/rayafriandion/MaiBot-telegram-adapter-plus,imai.telegram-adapter-plus
+Maizone（麦麦空间）,,3.0.4,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/internetsb/Maizone,internetsb.Maizone
+群聊日报分析,data,1.0.0,1.2.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/yumian114514/maibot-plugin-group-daily-analysis,io.github.yumian114514.group-daily-analysis
+GitHub 监控插件,integration,2.0.0,1.4.3,1.4.99,是,2.22.1,2.22.99,否,https://github.com/JasdewStarfield/MaiBot-Github-Monitor-Plugin,jasdewstarfield.github-monitor-plugin
+Wordle 猜单词,game,1.0.5,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/jh-mmm/maibot-wordle-plugin,jh-mmm.maibot-wordle-plugin
+麦麦×dsh 桥,,0.6.1,1.2.0,1.2.99,否,2.0.0,2.8.99,否,https://github.com/ji-or-ji/maibot-dsh-bridge,ji-or-ji.maibot-dsh-bridge
+插件安装审批器,,0.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ji-or-ji/maibot-plugin-installer,ji-or-ji.maibot-plugin-installer
+Emoji 转 QQ 表情,,1.0.0,1.0.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/juzi865/emoji2face,juzi865.emoji2face
+主动发言与回复,,1.0.0,1.0.0,1.0.0,否,1.0.0,2.99.99,否,https://github.com/juzi865/initiative-talk-plugin,juzi865.initiative-talk-plugin
+UNO 小游戏,,1.0.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/juzi865/uno-game-plugin,juzi865.uno-game-plugin
+MaiBot 搜索中枢,,0.6.1,1.3.17,1.4.99,是,2.19.0,2.99.0,否,https://github.com/kamionichan/maibot-search-hub,kamionichan.search_hub
+每日分析插件,tool,2.4.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/khiqwq/Maibot_daily_analysis,khiqwq.Maibot_daily_analysis
+用户身份验证插件,extension,2.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/khiqwq/owner_auth_plugin,khIqwq.owner_auth_plugin
+Telegram Full Adapter,adapter,0.3.0,1.2.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/KumaTea/MaiBot-Telegram-Full,kumatea.telegram-full
+MiMo ASR 桥接服务,media,1.0.0,1.0.0,999.999.999,是,2.0.0,999.999.999,否,https://github.com/Lgv-H/lgv-h.mimo-asr-bridge,lgv-h.mimo-asr-bridge
+MiMo TTS Voice Clone,provider,2.0.6,1.0.0,1.99.99,是,1.0.0,2.99.99,是,https://github.com/Liccsu/maibot-mimotts-voice,liccsu.maibot-mimotts-voice
+MaiBot LLM 余额与用量统计 | LLM Balance Monitor,tool,1.8.6,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Ling-LA/maibot-llm-balance-monitor,Ling-LA.llm-balance-monitor
+QQ头像表情包 | Avatar Meme,,3.4.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Ling-LA/maibot-avatar-meme,ling.avatar-meme
+群聊申请处理,,1.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Ling-LA/group-request-handler,ling.group-request-handler
+TTS语音插件,,2.3.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Ling-LA/ling-tts-bot,ling.tts-bot
+maibot-bridge-adapter,,0.1.0,0.0.0,0.0.0,否,2.0.0,2.99.99,否,https://github.com/litroenade/maibot-bridge-adapter,litroenade.maibot-bridge-adapter
+maibot-maid-adapter,,0.1.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/litroenade/maibot-maid-adapter,litroenade.maibot-maid-adapter
+大肥鱼·圣经原句出处,extension,1.1.9,1.3.17,1.3.99,否,2.19.0,2.21.99,否,https://github.com/CODao/maibot-bible-citation,local.bible-citation
+B站话题 · 麦麦适配版,integration,0.7.1,1.3.15,1.3.19,否,2.16.0,2.99.99,否,https://github.com/idonotl/maibot-bili-topics,local.bili-topics
+B站自主浏览与评论,integration,0.8.11,1.3.10,1.4.7,否,2.12.0,2.99.99,否,https://github.com/namchengwuqiu/bilibili_autopilot,local.bilibili-autopilot
+ChatGPT-MaiBot-connect-plugin,provider,0.2.3,1.3.14,1.4.0,否,2.16.0,2.99.99,否,https://github.com/Caeruvis/ChatGPT-MaiBot-connect-plugin,local.chatgpt-maibot-connect
+回响,automation,1.1.1,1.4.0,1.4.99,是,2.8.0,2.21.99,否,https://github.com/1519160235/huixiang-operator,local.huixiang-operator
+消息防抖合并,,1.0.1,1.0.0,1.0.0,否,2.4.0,2.99.99,否,https://github.com/tackyeel/Message-Debouncing,local.message-debounce-cn
+消息防抖合并,extension,2.0.1,1.0.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/Blackwindy2333/Message_Debouncing_Refactored,local.message-debounce-rebuild
+nai harness,creative,0.1.1,1.0.12,1.3.10,否,2.7.0,2.14.0,否,https://github.com/QlzqQlzq/nai-harness,local.nai-plugin
+Overstats 守望先锋查询,game,1.1.4,1.3.16,1.4.7,否,2.16.0,2.99.99,否,https://github.com/sora-maru/maibot_plugin_overstats,local.overstats
+麦麦全局记录器,,0.1.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/clfr41/local.part.think,local.part.think
+Qwen B站与QQ视频理解,,1.4.0,1.3.5,1.3.999,否,2.10.0,2.999.999,否,https://github.com/socialistearth/maibot-qwen-video,local.qwen-bilibili-video-context
+Qwen3-TTS QQ 语音,media,1.2.0,1.3.18,1.4.99,是,2.19.0,2.99.99,否,https://github.com/feli77/maibot-qwen-tts,local.qwen-tts
+简单联网搜索,,0.2.2,1.3.4,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/simple_search_plugin,local.simple-search-plugin
+稳定身份与原话查证,,0.2.6,1.3.15,1.3.15,否,2.16.0,2.16.0,否,https://github.com/ZeroBlock0/maibot-stable-identity,local.stable-identity
+股票行情,tool,1.1.0,1.0.0,1.4.99,是,2.0.0,2.22.99,否,https://github.com/LOWRUI/maibot-stock-quotes,local.stock-quotes
+豆包语音合成 2.0,media,1.0.2,1.3.16,1.4.3,否,2.16.0,2.22.1,否,https://github.com/suodeovo/MaiBot-Doubao-TTS,local.volc.tts2
+小鲸鱼心情与好感度,chat,0.2.8,1.3.15,1.3.19,否,2.16.0,2.99.99,否,https://github.com/idonotl/maibot-whale-affect,local.whale-affect
+鱼的记忆 · 麦麦适配试用,data,0.2.2,1.3.15,1.3.19,否,2.16.0,2.99.99,否,https://github.com/idonotl/maibot-whale-memory,local.whale-memory
+whale 记忆桥,data,0.5.2,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/yurimuki/maibot-plugin-whale-memory-bridge,local.whale-memory-bridge
+主动搭话 · 麦麦适配版,automation,0.1.2,1.3.15,1.3.19,否,2.16.0,2.99.99,否,https://github.com/idonotl/maibot-whale-speakup,local.whale-speakup
+Deepseek联网工具,,0.3.0,1.0.0,1.99.99,是,2.5.2,2.99.99,否,https://github.com/LowValueTarget777/deepseek-anthropic-provider,LowValueTarget.deepseek-anthropic-provider
+maibot-web-retriever,,0.1.4,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/LowValueTarget777/maibot-web-retriever,LowValueTarget.maibot-web-retriever
+Milky Adapter 适配器,,1.0.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/LuoRogers/MaiBot-Milky-Adapter,luorogers.milky-adapter
+MiMo TTS Voice Clone (Pro),media,1.9.13,1.0.0,1.3.99,否,1.0.0,2.16.99,否,https://github.com/m1o0/maibot-mimotts-voice-pro,m1o0.maibot-mimotts-voice-pro
+人设存档与切换,data,1.1.1,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/m1o0/maibot-persona-switcher,m1o0.persona-switcher
+主动唤醒,chat,1.1.0,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/m1o0/maibot-proactive-wake,m1o0.proactive-wake
+MaiBot Deskpet,adapter,1.0.8,1.0.0,999.999.999,是,1.0.0,999.999.999,否,https://github.com/Maboroshinatsu/maibot-deskpet-plugin,Maboroshinatsu.maibot-deskpet-plugin
+Mai Beeper Adapter,adapter,0.4.7,1.2.0,1.3.99,否,2.8.0,2.14.99,否,https://github.com/sunfish1728/mai-beeper-adapter,mai-beeper.beeper-adapter
+Mai DC 語音,adapter,0.4.1,1.2.0,1.3.99,否,2.8.0,2.14.99,否,https://github.com/sunfish1728/mai-dc,mai-dc.discord-voice
+麦麦玩游戏王,game,1.2.4,1.0.0,1.99.0,是,2.5.0,2.99.99,否,https://github.com/erhan111119/mai-play-ygo,mai-play-ygo
+mai-timefree,tool,0.1.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/clfr41/mai-timefree,mai-timefree
+QQ 官方机器人适配器,adapter,0.4.6,1.3.18,1.3.99,否,2.19.0,2.98.99,否,https://github.com/Mai-with-u/MaiBot-QQ-Adapter,Mai-with-u.qq-adapter
+麦麦的绘图笔记本,creative,2.4.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/LegnaW/mai-prompt-journal,mai.prompt-journal
+麦麦身体,extension,1.3.1-dev,1.3.15,1.4.99,是,2.16.0,2.99.99,否,https://github.com/ShuangziG/maibot-body-emulator,maibot-body-emulator
+沙盒终端与全能系统控制 | Sandbox Terminal & Full System Control,,1.4.1,1.0.0,1.9.99,是,1.0.0,2.9.99,否,https://github.com/met-tk/maibot-cmd-sandbox,maibot-cmd-sandbox
+跨群好感度,,1.0.0,1.0.12,1.99.99,是,2.7.0,2.99.99,否,https://github.com/chengxuanchengyu-afk/affinity_plugin,maibot-community.affinity-plugin
+FGO小助手,game,1.4.1,1.0.0,1.4.5,否,2.12.0,2.23.0,否,https://github.com/Gulzar2000/maibot-fgo-assistant,maibot-community.fgogacha
+麦生活,extension,1.27.0,1.3.16,1.4.99,是,2.7.0,2.91.99,否,https://github.com/octmicy/Mai_life,maibot-community.mai-life
+MaiLifeSuite（麦麦生活套件）,integration,1.3.0,1.3.6,1.3.99,否,2.15.0,2.29.99,否,https://github.com/lightningXMS/MaiLifeSuite-----,maibot-community.mai-life-suite
+麦麦恋人,tool,2.3.0,1.0.0,1.3.15,否,2.6.0,2.16.99,否,https://github.com/octmicy/Mai_love,maibot-community.mai-love
+麦麦的本质就是复读机,extension,1.4.2,1.0.0,1.4.99,是,2.6.0,2.99.99,否,https://github.com/octmicy/Mai_repeater,maibot-community.mai-repeater
+,,,,,无详情,,,无详情,https://github.com/2829798842/MaiBot-Discord-Adapter,MaiBot-Discord-Adapter
+麦麦身体-更好的喝酒吧,chat,0.2.2,1.3.15,1.4.99,是,2.16.0,2.99.99,否,https://github.com/saddoge114514/maibot-drunk,maibot-drunk
+本地模型优化 / Local Model Optimizer,management,1.2.4,1.0.0,1.3.99,否,2.0.0,2.16.99,否,https://github.com/ALLALLALLALLALLALL/maibot-local-model-optimizer,maibot-local-model-optimizer
+被禁言告警插件,,1.2.0,1.3.14,1.4.99,是,2.16.0,2.22.99,否,https://github.com/lrony22/maibot-mute-alert,maibot-mute-alert
+群聊每日分析,data,1.6.7,1.3.19,1.4.99,是,2.12.0,2.23.99,否,https://github.com/NetaJuutilainen/Maibot_plugin_qq_group_daily_analysis,maibot-plugin-qq-group-daily-analysis
+Napcat 适配器 （不再更新，请使用Snowluma适配器）,adapter,1.4.1,1.2.0,1.3.99,否,2.5.0,2.99.99,否,https://github.com/Mai-with-u/MaiBot-Napcat-Adapter,maibot-team.napcat-adapter
+OneBot 适配器,adapter,1.3.2,1.4.4,1.4.99,是,2.19.0,2.98.99,否,https://github.com/Mai-with-u/MaiBot-SnowLuma-Adapter,maibot-team.snowluma-adapter
+Telegram 适配器,adapter,0.1.17,1.3.18,1.3.99,否,2.19.0,2.98.99,否,https://github.com/Mai-with-u/Maibot-telegram-adaptor,maibot-team.telegram-adapter
+小黑盒社区适配器,adapter,0.8.2,1.3.6,1.3.99,否,2.12.0,2.99.99,否,https://github.com/SengokuCola/xiaoheihe_adapter,maibot-team.xiaoheihe-adapter
+XMPP_Adapter 适配器,,0.1.5,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/clfr41/MaiBot-XMPP-Adapter,maibot-xmpp-adapter
+刷B站,integration,1.0.3,1.3.0,1.3.99,否,2.8.0,2.10.99,否,https://github.com/DomainDream/maibot-bilibili-browser,maibot.bilibili-browser
+麦麦小工具合集,game,1.6.6,1.3.0,1.4.99,是,2.5.0,2.22.99,否,https://github.com/NetaJuutilainen/Maibot_fun_pack_plugin,maibot.fun-pack
+知识库查询,,0.1.0,1.0.0,1.0.0,否,2.0.0,2.9.9,否,https://github.com/clfr41/maibot.knowledge-query,maibot.knowledge-query
+照片上的人是你吗？,media,0.2.0,1.3.6,1.3.99,否,2.11.0,2.99.99,否,https://github.com/SengokuCola/MaiSelfPlugin,maibot.mai-recog-self
+麦麦要吃那个！,game,2.1.0,1.0.0,1.4.99,是,2.0.0,2.23.99,否,https://github.com/NetaJuutilainen/maibot-maimai-feed-bot,maibot.maimai-feed-bot
+菜单插件,tool,1.0.2,1.0.0,1.99.99,是,2.6.0,2.99.99,否,https://github.com/SiriusFzh/maibot-menu,maibot.menu
+OpenCode 会话头注入,provider,1.5.2,1.3.0,1.9.99,是,2.10.0,999.999.999,否,https://github.com/deepseekv41flash/maibot-opencode-session-header,maibot.opencode-session-header
+自像比对 (Self Check),chat,0.2.4,1.3.10,1.9.99,是,2.12.0,2.99.99,否,https://github.com/weiyu104/maibot-self-check,maibot.self-check
+视频内容识别,,1.5.0,1.2.0,1.99.99,是,2.7.0,2.99.99,否,https://github.com/yumuq/maibot-video-recognizer,maibot.video_recognizer
+点歌插件,media,3.0.0,1.0.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/hydrogen-francium/maibot_music_plugin,maibot_music_plugin
+稍，稍等一下！,,3.4.4,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/FlandreSatori/maibot_plugin.hold_on,maibot_plugin.hold_on
+关键词回复,,1.2.7,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/FlandreSatori/maibot_plugin_keywords_reply,maibot_plugin.keywords_reply
+错误输出重定向,,1.3.3,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/FlandreSatori/maibot_plugin_redirect_err,maibot_plugin.redirect_err
+麦麦生活,,1.3.2,1.3.1,1.4.99,是,2.7.1,2.99.99,否,https://github.com/tsuiraku9/mai-life,mailife.mai-life
+,,,,,无详情,,,无详情,https://github.com/MaiM-with-u/MaiBot,MaiM-with-u.example-plugin1
+麦麦绘图,creative,2.3.5,1.3.19,1.4.99,是,2.20.0,2.23.0,否,https://github.com/WhiteCloudOL/maimai-drawpic-plugin,maimai-drawpic-plugin
+Minecraft 服务器状态查询,,1.0.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/WhiteCloudOL/maimai-mcstatus-plugin,maimai-mcstatus-plugin
+麦麦写真,media,0.4.1,1.3.6,1.4.99,是,2.12.0,2.99.99,否,https://github.com/tsuiraku9/maitu-photo-studio,maitu.photo-studio
+麦麦三国杀台词姬,game,1.1.0,1.0.0,999.999.999,是,2.0.0,999.999.999,否,https://github.com/Mcphist2022/MaiBot-sanguosha-plugin,mcphist2022.sanguosha
+Bilibili 内容解析,extension,1.0.7,1.2.0,1.3.99,否,2.7.1,2.99.99,否,https://github.com/493Arceus/maibot-bilibili-analyzer,mengshouer.analysis-bilibili
+B站视频插件 Maisaka 版,,4.1.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/Mettafy/bilibili_video_parser,Mettafy.bilibili_video_parser
+Breeze 积分助手,automation,1.0.4,1.3.19,1.4.99,是,2.20.0,2.23.99,否,https://github.com/CharQin/maibot-breeze-points,mi-tuan.breeze-claim
+galgame领域大神,tool,1.0.6,1.2.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/mizuku003/maibot-galgame,mizuku003.galgame
+麦麦贴吧搬石,tool,1.1.8,1.2.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/mizuku003/maibot-tieba-share,mizuku003.tieba-share
+MaiBot-MiMo-rollback,provider,1.0.2,1.1.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/myxxr/MaiBot-MiMo-rollback,myxxr.mimo-rollback
+二次元特化搜索,tool,0.1.2,1.3.16,1.4.99,是,2.17.0,2.22.99,否,https://github.com/naiiyo/maibot-acg-search,naiiyo.acg-search
+Gemini 绘图,creative,1.16.3,1.4.4,1.4.5,否,2.23.0,2.99.99,否,https://github.com/namchengwuqiu/gemini_drawer,namchengwuqiu.gemini_drawer
+AutoPlanning,,0.3.0,1.0.0,1.99.99,是,2.4.0,2.99.99,否,https://github.com/Natural-Selectionn/maibot-auto-planning-plugin,Natural-Selectionn.maibot-auto-planning-plugin
+麦麦不要说辣个啦,extension,1.0.1,1.3.0,1.4.99,是,2.5.0,2.22.99,否,https://github.com/NetaJuutilainen/maibot-plugin-mouth-filter,NetaJuutilainen.mai-mouth-filter
+怕寂寞的麦麦 (LonelyMai) sdkv2,,1.2.0,1.0.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/clfr41/lonely-mai-sdkv2,NothingButSeaweedSoup.LonelyMai
+麦麦守门人,management,0.6.7,1.3.0,1.3.99,否,2.6.0,2.91.99,否,https://github.com/octmicy/Mai_gatekeeper,octmicy.mai-gatekeeper
+麦麦!来点二次元图片!,,4.1.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/octmicy/pixiv-crawler,octmicy.pixiv-crawler
+B站字幕提取解读,tool,1.1.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/OMSociety/maibot_plugin_bilicaption,omsociety.bilicaption
+Minecraft 聊天适配器,integration,1.3.4,1.0.0,1.3.99,否,1.0.0,2.99.99,否,https://github.com/OMSociety/maibot_plugin_minecraft_adapter,omsociety.minecraft-adapter
+日程提醒助手,tool,2.0.1,1.4.5,1.4.99,是,2.23.0,2.23.99,否,https://github.com/OMSociety/maibot_plugin_schedule_assistant,omsociety.schedule-assistant
+goqbot 适配器 / GoqBot Adapter,adapter,0.2.2,1.3.18,1.4.99,是,2.19.0,2.99.99,否,https://github.com/huilongxiji/MaiBot-GoqBot-Adapter,onebot-ws.goqbot-adapter
+今日老婆 Pro,,2.0.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/onelxzy/partner-game,onelxzy.partner-game
+碧蓝航线 wiki,tool,0.1.5,0.10.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/senhan1337/MaiBot-blhx-wiki,org.azurlane.blhx-wiki-maibot
+角色识别,media,0.8.2,1.3.6,1.4.99,是,2.11.0,2.21.99,否,https://github.com/orge-8/char-recog,org.civetc.char-recog
+中V歌词识别 · 歌曲库,,2.22.0,1.0.0,1.4.99,是,2.1.0,2.23.99,否,https://github.com/orge-8/cv_lyric_context,org.mai-mai.cv-lyric-context
+文件读取（File Reader）,data,1.9.1,1.2.0,1.4.99,是,2.5.1,2.23.99,否,https://github.com/orge-8/file-reader,org.mai-mai.file-reader
+自我身份档案,extension,1.3.3,1.2.0,1.99.99,是,2.8.0,2.99.99,否,https://github.com/orge-8/self-identity,org.mai-mai.self-identity
+better-diary 日记插件,,1.11.0,1.2.3,1.4.99,是,2.8.0,2.22.1,否,https://github.com/orge-8/better-diary,org.orge-8.better-diary
+月度预算发言频率调节,,1.1.0,1.0.9,1.99.99,是,2.6.0,2.99.99,否,https://github.com/orge-8/budget-pacer,org.orge-8.budget-pacer
+生活频率,extension,1.25.5,1.2.3,1.3.99,否,2.8.0,2.21.99,否,https://github.com/orge-8/life-frequency,org.orge-8.life-frequency
+日志周报医生,,1.3.4,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/orge-8/log-doctor,org.orge-8.log-doctor
+小黑盒运营,integration,0.8.0,1.3.6,1.3.99,否,2.12.0,2.99.99,否,https://github.com/HannJia/xiaoheihe-operator,org.orge-8.xiaoheihe-operator
+Mi Mai,tool,1.0.1,1.4.5,1.4.99,是,2.22.1,2.23.99,否,https://github.com/hedgehogovo/Mi-Mai,orxilv.mi_mai
+自主跨群转发插件,integration,0.2.12,1.2.0,1.99.99,是,2.7.1,2.99.99,否,https://github.com/papaya0481/maibot-ForwardMessagesAuto-plugin,papaya0481.forward-messages-auto
+PersonaIter 人设迭代器,,0.1.0,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/clfr41/mai-persona-iter,persona-iter
+DeepSeek 峰谷價格播報,,1.1.2,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/Photalia/maibot-deepseek-peak-valley,photalia.deepseek-peak-valley
+推特转发 / Twitter Forwarder,integration,1.8.0,1.2.0,1.2.99,否,2.5.0,2.99.99,否,https://github.com/niconieryr/maibot-twitter-forwarder,polarbear.twitter-forwarder
+Deepseek联网搜索,integration,1.0.1,1.0.0,1.99.99,是,2.5.2,2.99.99,否,https://github.com/Qhzy1411/Maibot_Deepseek_Web_Searcher,Qhzy1411.deepseek-web-searcher
+QQ 官方机器人适配器,adapter,1.2.2,1.0.6,1.4.99,是,2.8.0,2.23.0,否,https://github.com/WhiteCloudOL/qq-official-adapter,qq-official-adapter
+QQ 机器人唱歌（qqbot-music）,,1.0.0,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/aa1805370178-dot/qqbot-music-maibot,qqbot-music.sing
+麦可当劳(MaicLaude):Maibot Using Claude Code CLI,integration,1.0.0,1.0.0,1.99.99,是,2.5.2,2.99.99,否,https://github.com/QR-0W/maibot-maiclaude-plugin,qr0w.maiclaude
+LLM 模型健康度/成功率统计,,1.2.0,1.0.0,1.99.99,是,2.10.0,2.99.99,否,https://github.com/qxy871sda/llm_model_health,qxy871sda.llm_model_health
+MaiTrace（麦时迹）,chat,6.7.4,1.3.11,1.4.99,是,2.15.0,2.99.99,否,https://github.com/Yae-Miko-Rabbit/MaiTrace,Rabbit-Jia-Er.MaiTrace
+晚安睡眠管理,,1.1.3,1.0.0,1.0.0,否,2.4.0,2.99.99,否,https://github.com/RaTaiHok/goodnight_sleep_manager,RaTaiHok.goodnight_sleep_manager
+麦麦拟人回复速度,,1.0.1,1.0.0,1.0.0,否,2.4.0,2.99.99,否,https://github.com/RaTaiHok/human_reply_speed,RaTaiHok.human_reply_speed
+麦麦传话,,0.0.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/Tsxiaoyao/relay-message-plugin,relay-message-plugin
+Anthropic 兼容模型 Provider,,0.1.4,1.0.0,1.99.99,是,2.8.1,2.99.99,否,https://github.com/riesaexe/riesa-anthropic-provider,riesa.anthropic-provider
+深度问答 · 图片版,extension,1.2.0,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/riesaexe/maibot-riesa-reason,riesa.reason
+今天吃什么,extension,1.1.1,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/riesaexe/maibot-today-eat,riesa.today-eat
+中文翻译,tool,1.7.1,1.3.10,1.3.99,否,2.12.0,2.12.99,否,https://github.com/riesaexe/maibot-index-translate,riesa.translate
+生活行为参考,,1.1.0,1.0.0,99.99.99,是,2.0.0,2.99.99,否,https://github.com/riesaexe/life-behavior-reference,riesaexe.life-behavior-reference
+MONITOR,,0.1.0,1.0.0,1.1.0,否,2.0.0,2.99.99,否,https://github.com/rayafriandion/sanchess.MONITOR,sanchess.MONITOR
+阿里云百炼 TTS 插件 (Aliyun Bailian TTS Plugin),,1.0.0,1.0.0,1.0.0,否,2.4.0,2.99.99,否,https://github.com/SengokuCola/aliyun-tts-plugin,sengokucola.aliyun-tts-plugin
+Better Image,,1.1.6,1.3.0,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/better_image,sengokucola.better-image
+DeepSeek 思考模式 Marker,extension,0.1.3,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/SengokuCola/deepseek_thinking_marker,sengokucola.deepseek-thinking-marker
+麦麦观鸟插件 (MaiMai Birdwatching Plugin),knowledge,1.2.4,1.3.0,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/maimai_birdwatching_plugin,SengokuCola.maimai-birdwatching-plugin
+麦麦牛牛插件 (Maimai Niuniu Plugin),,1.4.3,1.3.0,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/maimai-niuniu-plugin,SengokuCola.maimai-niuniu-plugin
+麦麦钢管,deskpet,1.0.3,1.3.19,1.3.99,否,2.20.0,2.99.99,否,https://github.com/SengokuCola/pet-fe,sengokucola.maimai-sprinkles
+音乐赏析,,0.1.0,1.3.4,1.3.99,否,2.9.0,2.99.99,否,https://github.com/SengokuCola/music_appreciation_plugin,SengokuCola.music-appreciation-plugin
+,,,,,无详情,,,无详情,https://github.com/SengokuCola/MutePlugin,SengokuCola.Mute-Plugin
+自我信息插件 (Self Identity Plugin),chat,1.3.1,1.0.0,1.1.99,否,2.0.0,2.99.99,否,https://github.com/SengokuCola/self_identity_plugin,sengokucola.self-identity-plugin
+Steam 浏览,,0.1.4,1.3.9,1.3.99,否,2.12.0,2.99.99,否,https://github.com/SengokuCola/steam_browser_plugin,SengokuCola.steam-browser-plugin
+洛克王国数据查询,,3.1.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/ShiinaWhite/maibot-plugin-rocom,ShiinaWhite.maibot-plugin-rocom
+内存诊断,,0.1.2,1.2.3,1.4.99,是,2.8.0,2.99.99,否,https://github.com/ShinoyukiMiyako/maibot-memory-diagnostics,shinoyuki.memdiag
+Claude Provider Support,provider,2.0.0,1.3.9,1.3.14,否,2.12.0,2.16.0,否,https://github.com/ShinoyukiMiyako/Claude-Provider-Support,shinoyukimiyako.claude-provider
+海龟汤游戏主持人,game,1.0.0,1.1.0,1.99.99,是,2.7.1,2.99.99,否,https://github.com/Singulair-x/maibot-turtle_soup_host,singulair.turtle-soup-host
+Life Simulation,,2.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/SkonJIYHD/LifeSimulationPlugin,SkonJIYHD.LifeSimulationPlugin
+社区互动增强,,1.2.0,1.0.0,1.99.99,是,2.7.1,2.99.99,否,https://github.com/MCYXG233/community.engagement-plus,small_sunshine.community.engagement-plus
+精确身份与群聊特别关注,,0.4.1,1.3.19,1.3.19,否,2.21.0,2.21.0,否,https://github.com/MWT-D0ZUV/Sol_trusted_identity,Sol.trusted_identity
+飞书适配器,adapter,0.1.3,1.3.18,1.98.99,是,2.19.0,2.98.99,否,https://github.com/SoukNow/MaiBot-Feishu-Adapter,souknow.feishu-adapter
+SVG 简笔画生成器,tool,1.0.0,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/sp1ca0722/maibot-easysvg-creator,spica.easysvg-creator
+Matrix 适配器,adapter,0.1.0,1.3.18,1.4.99,是,2.19.0,2.23.99,否,https://github.com/Stanley-233/MaiBot-Matrix-Adapter,stanley.matrix-adapter
+自定义命令插件 | CustomCommands Plugin,tool,2.8.0,1.3.18,1.4.99,是,2.19.0,2.99.99,否,https://github.com/TAIY2020/custom_commands_plugin,TAIY2020.custom_commands_plugin
+群聊静音插件 | GroupMuter Plugin,tool,2.8.1,1.3.0,1.4.99,是,2.8.2,2.99.99,否,https://github.com/TAIY2020/group_muter_plugin,TAIY2020.group_muter_plugin
+LLM 平台余额查询插件 | LLM Balance Plugin,tool,1.8.0,1.3.17,1.4.99,是,2.19.0,2.99.99,否,https://github.com/TAIY2020/llm_balance_plugin,TAIY2020.llm-balance-plugin
+智能戳一戳插件 | Smart Poke Plugin,game,1.13.0,1.2.5,1.4.99,是,2.6.0,2.99.99,否,https://github.com/TAIY2020/smart_poke_plugin,TAIY2020.smart_poke_plugin
+今日老婆 Pro+,game,2.0.2,1.0.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/tianditongcuo/partner-game,tianditongcuo.partner-game-pro
+万能链接解析器,,1.7.4,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/tidain/maibot-platform-parser,tidain.maibot-platform-parser
+Maibot_Emoji_Select_With_Text,,1.2.0,1.0.0,1.9.9,是,2.7.1,2.7.1,否,https://github.com/TogawaSakiko-desuwa/Maibot_Emoji_Select_With_Text,togawasakiko-desuwa.emoji-select-with-text
+千问联网搜索,,1.0.0,1.0.0,1.9.9,是,2.7.1,2.7.1,否,https://github.com/TogawaSakiko-desuwa/Maibot_Qwen_Web_Search,togawasakiko-desuwa.qwen-web-search
+听音频文件,,1.1.4,1.2.0,1.3.99,否,2.7.1,2.99.99,否,https://github.com/Tom20200112/maibot-listen-audio-file,tom.listen-audio-file
+麦麦说人话（原AI八股拦截）,,2.0.0,1.3.0,1.3.99,否,2.9.0,2.99.99,否,https://github.com/TommyAAKK/maibot-antibait,TommyAAKK.antibait
+XChat Adapter,adapter,0.2.0,1.2.0,1.3.99,否,2.5.0,2.99.99,否,https://github.com/launchpad001/MaiBot-XChat-Adapter,top.launchpadx.maibot.xchat_adapter
+MaiSearch 百度搜索,integration,0.1.0,1.3.5,1.3.15,否,2.10.0,2.16.0,否,https://github.com/Toyaspio/maibot-baidu-search,toyaspio.maibot-baidu-search
+统一TTS语音合成插件 (Unified TTS Voice Plugin),,3.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xuqian13/tts_voice_plugin,tts_voice_plugin
+塔罗牌插件,entertainment,1.0.2,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/SiriusFzh/maibot-tarot-card-plugin,user.tarot-card-plugin
+飞花令,,1.0.1,1.3.15,1.3.99,否,2.16.0,2.99.99,否,https://github.com/ValleyWinds/Feihua-Ling,valleywinds.feihua-ling
+自我信息插件 (Self Identity),,1.4.5,1.3.0,1.3.99,否,2.0.0,2.99.99,否,https://github.com/ValleyWinds/Self-Identity,valleywinds.self-identity
+睡眠管理Next,,1.4.1,1.2.5,1.3.99,否,2.6.0,2.99.99,否,https://github.com/ValleyWinds/Sleep-Manager,valleywinds.sleep-manager
+规则怪谈插件,,2.4.0,1.0.0,1.99.99,是,2.4.0,2.99.99,否,https://github.com/wentaoxian6-svg/MaiBot-rule_horror_plugin,wentaoxian6-svg.MaiBot-rule_horror_plugin
+麦麦多平台TTS语音,media,2.2.6,1.3.6,1.4.99,是,2.13.0,2.23.0,否,https://github.com/WhiteCloudOL/maimai-tts-plugin,WhiteCloudOL.maimai-tts-plugin
+动态群名片,automation,2.1.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/whitefox20011120/dynamic_nickname,whitefox.dynamic-nickname
+好友申请处理,management,1.3.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/whitefox20011120/friend-request-handler,whitefox.friend-request-handler
+加群申请处理,management,1.2.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/whitefox20011120/group-request-handler,whitefox.group-request-handler
+天气预报插件,service,2.0.1,1.0.0,1.0.0,否,2.0.0,2.99.99,否,https://github.com/whitefox20011120/weather-forecast,whitefox.weather-forecast
+今日老婆,entertainment,2.0.1,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/whitefox20011120/wife_picker,whitefox.wife-picker
+B站动态推送,media,2.7.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/whitefox20011120/bilibili_dynamic_push_plugin,whitefox20011120.bilibili_dynamic_push_plugin
+麦麦的人类伪装计划,extension,1.0.3,1.3.0,1.3.99,否,2.0.0,2.16.99,否,https://github.com/WiseXin/MaiBot-Character-Disguise,WiseXin.character-disguise
+Discord 适配器 / Discord Adapter,adapter,1.0.3,1.3.0,1.3.99,否,2.0.0,2.0.99,否,https://github.com/WiseXin/MaiBot-Discord-Adapter,WiseXin.discord-adapter
+麦麦的手机,tool,1.3.1,1.3.0,1.3.99,否,2.0.0,2.16.99,否,https://github.com/WiseXin/MaiBot-Phone-Controller,WiseXin.phone-controller
+PicStatus-Re,tool,2.3.3,1.3.0,1.3.99,否,2.12.0,2.99.99,否,https://github.com/WMX20081122/maibot-picstatus,WMX20081122.maibot-picstatus
+签到卡片,game,1.0.1,1.3.0,1.3.99,否,2.12.0,2.99.99,否,https://github.com/WMX20081122/maibot-qiandao,WMX20081122.maibot-qiandao
+QQ在线监控,tool,1.0.6,1.3.0,1.3.99,否,2.12.0,2.99.99,否,https://github.com/WMX20081122/maibot-qq-monitor,WMX20081122.maibot-qq-monitor
+战舰世界战绩推送,integration,1.3.0,1.2.3,1.2.99,否,2.8.0,2.16.99,否,https://github.com/Rcsit-D4/wows-battle-push,wows-battle-push
+Coopet 桌宠适配器,adapter,0.2.1,1.4.3,1.4.99,是,2.22.0,2.98.99,否,https://github.com/wtxdew/maibot-coopet-adapter,wtxdew.coopet-adapter
+群聊个人课表提醒,tool,1.10.9,1.3.15,1.3.99,否,2.16.0,2.16.99,否,https://github.com/uFay0411/maibot-group-timetable,wu.group-timetable
+油库里语音,,0.3.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/XHcreeper/maibot_yukkuri_voice,XHC.maibot_yukkuri_voice
+MaiBot Reminder | 麦麦提醒器,,1.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xhstoyea/maibot-reminder,xhstoyea.maibot-reminder
+让麦麦说话和唱歌,,1.1.2,1.0.0,1.99.99,是,2.5.1,2.99.99,否,https://github.com/xiaocutedog/maibot_sing-main,xiaocutedog.maibot-sing
+主动私聊工具 Plus,extension,0.1.0,1.2.0,1.99.99,是,2.5.0,2.99.99,否,https://github.com/xiaocutedog/maibot_private_chat_tool_plus,xiaocutedog.maibot_private_chat_tool_plus
+麦麦发 B 站视频,,2.0.11,1.0.0,2.0.0,是,2.3.0,2.99.0,否,https://github.com/XinxInxiN0/bilibili_video_sender_plugin,XinxInxiN0.bilibili_video_sender_plugin
+麦麦操作服务器与发送文件,tool,1.0.22,1.1.0,1.99.99,是,2.3.0,2.99.99,否,https://github.com/bilixuesheng/maibot-server-command,xuesheng.maibot-server-command
+麦麦自主规划插件 v4,,4.4.6,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xuqian13/autonomous_planning_plugin,xuqian13.autonomous_planning_plugin
+麦麦失忆插件,management,2.0.0,1.0.0,1.99.99,是,2.0.0,2.99.99,否,https://github.com/xuqian13/context_clear_plugin,xuqian13.context_clear_plugin
+麦麦联网插件（search plugin）,,4.2.1,0.10.0,1.14.5,是,2.3.0,2.99.99,否,https://github.com/XXXxx7258/google_search_plugin,XXXxx7258.google_search_plugin
+静默主动发言,,1.0.5,1.0.0,1.9.9,是,2.5.2,2.99.99,否,https://github.com/XXXxx7258/idle_proactive_chat,xxxxx7258.idle-proactive-chat
+萌娘百科插件,tool,2.1.3,1.0.0,1.4.99,是,2.0.0,2.99.99,否,https://github.com/XXXxx7258/moegirl_wiki_plugin,XXXxx7258.moegirl_wiki_plugin
+MOSS 绘图,media,0.3.1,1.3.1,1.4.99,是,2.8.2,2.21.99,否,https://github.com/YayiMiko/maibot_plugin_moss_image,yayimiko.moss-image
+视频生成插件,,2.2.0,1.0.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/yueshenqiu/video_generator_plugin,yueshenqiu.video_generator_plugin
+麦麦梗百科插件,,0.1.5,1.3.16,1.4.99,是,2.16.0,2.99.99,否,https://github.com/YukiSakiko/cnmeme_plugin,YukiSakiko.cnmeme-plugin
+麦麦视频内容理解插件（B站/抖音）,,2.1.1,0.10.0,1.14.5,是,2.3.0,2.99.99,否,https://github.com/YukiSakiko/content_understanding_plugin,YukiSakiko.content_understanding_plugin
+小报告,,1.2.2,1.3.6,1.4.99,是,2.10.0,2.99.99,否,https://github.com/YukiSakiko/report_to_admin_plugin,YukiSakiko.report_to_admin_plugin
+零花钱,management,1.2.2,1.3.0,1.3.99,否,2.6.0,2.99.99,否,https://github.com/z1252/pocket-money,z1252.pocket-money
+热点雷达 · 圈子资讯订阅感知,tool,0.7.6,1.2.0,1.99.99,是,1.0.0,2.99.99,否,https://github.com/ZhaoCang-QWQ/hot-topics,zhaocang.hot-topics

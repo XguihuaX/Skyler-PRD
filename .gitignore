@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+config.yaml
+*.sqlite
+*.sqlite3
+*.db
+*.wav
+*.mp3
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+node_modules/
+.venv/
