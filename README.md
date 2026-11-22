@@ -9,6 +9,8 @@
 3. [执行任务](docs/product/SKYLER-TASKS.md)：最近从 T-01 的主机与 Mac 同一主人会话开始。
 4. [设备验收](docs/product/SKYLER-5070TI-ACCEPTANCE.md)与[验收日志](docs/product/SKYLER-VALIDATION-LOG.md)：怎么测，以及哪些真的测过。
 
+开始 T-01：[复制这段提示词发给 5070 Ti 主机 Codex](docs/product/T-01-HOST-CODEX-PROMPT.md)。
+
 完整导航：[需求材料入口](docs/product/README.md)。给另一台 Codex：[接手说明](docs/product/HANDOFF-momo-requirements-2026-11-18.md)。
 
 ## 当前方向
