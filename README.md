@@ -6,7 +6,7 @@
 
 1. [主 PRD](docs/product/PRD-momo-next.md)：产品目标、十个功能域、计划交接、待决与后续顺序。
 2. [功能行为明细](docs/product/SPEC-momo-next-details.md)：保留原来谈过的语音、记忆、提醒、操作、角色等具体行为。
-3. [执行任务](docs/product/SKYLER-TASKS.md)：最近从 T-01 的主机与 Mac 同一主人会话开始。
+3. [执行任务](docs/product/SKYLER-TASKS.md)：最近从 T-01 的麦麦下载安装、模型配置和主机—Mac 聊天开始。
 4. [设备验收](docs/product/SKYLER-5070TI-ACCEPTANCE.md)与[验收日志](docs/product/SKYLER-VALIDATION-LOG.md)：怎么测，以及哪些真的测过。
 
 开始 T-01：[复制这段提示词发给 5070 Ti 主机 Codex](docs/product/T-01-HOST-CODEX-PROMPT.md)。
