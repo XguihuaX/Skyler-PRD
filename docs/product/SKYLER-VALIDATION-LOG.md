@@ -10,4 +10,6 @@
 
 ## 实际执行记录
 
-暂无。先执行[任务 T-01](SKYLER-TASKS.md#最近一个任务t-01)。
+### 2026-11-22 · T-01 · Mac 网页接续 Windows 私聊
+
+Mac 工作副本基线 `3fa0cae`，macOS 26.2 arm64，Windows 宿主 MaiBot 1.4.8、Dashboard 1.10.8。经 SSH 转发打开 WebUI，登录后在同一主人会话看到 Windows 提问和答案 43。16:27 Mac 追问「刚才的答案再加 8 是多少」，雪回答 51 并发回完整测试记号。刷新后两个设备的提问、答案及记号均可回看。网页环节通过。独立客户端与主机侧核对结果分别见 [Mac 进度](SKYLER-MAC-PROGRESS.md)和[主机进度](SKYLER-HOST-PROGRESS.md)。
