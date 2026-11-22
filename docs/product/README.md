@@ -1,6 +1,6 @@
 # Skyler 需求材料入口
 
-当前主 PRD 为 v0.96（2026-11-22）。产品范围和主要复用方向已明确，正在准备原版与目标设备验证。基础语音、手机摄像头、游戏陪看/两种操作均保留；计划交接已确认先验证；尚无目标设备整条流程通过记录。
+当前主 PRD 为 v0.96（2026-11-22）。产品范围和主要复用方向已明确，正在进行原版与目标设备验证。基础语音、手机摄像头、游戏陪看/两种操作均保留；计划交接已确认先验证；尚无目标设备整条流程通过记录。
 
 ## 从这里读
 
@@ -12,6 +12,7 @@
 | 当前架构、接入和设备分工 | [架构](ARCH-001-runtime-renewal.md) · [接口草案](INTERFACE-001-frontend-backend-contract.md) |
 | 微信/手机/Mac、原生语音、换机的依据 | [多端接入核对](SKYLER-CHANNELS-AND-HANDOFF.md) |
 | 下一步具体做什么 | [任务清单](SKYLER-TASKS.md) · [设备验收](SKYLER-5070TI-ACCEPTANCE.md) |
+| 两台设备各自做到哪一步 | [5070 Ti 主机进度](SKYLER-HOST-PROGRESS.md) · [Mac 端进度](SKYLER-MAC-PROGRESS.md) |
 | 哪些真的测过 | [目标设备验收日志](SKYLER-VALIDATION-LOG.md)；局部回放仍看对应 INV |
 | 给另一台 Codex 接手 | [接手说明](HANDOFF-momo-requirements-2026-11-18.md) |
 | 用户原来的例子 | [十一项案例](../../.agents/skills/momo-refactor-cases/references/cases.md) |

@@ -9,6 +9,7 @@
 - Git 只列具体文件进行 add；默认不 commit，用户明确要求提交或上传时按范围提交；push 需用户明确授权。不要 force push、amend 或跳过 hooks。
 - 不提交运行配置、凭据、聊天数据库、原始录音或模型权重。不得 stage config.yaml。
 - 修改后检查需求/状态一致性、相对链接及受影响目录入口。每轮验证在 SKYLER-VALIDATION-LOG.md 留真实结果。
+- [5070 Ti 主机进度](docs/product/SKYLER-HOST-PROGRESS.md)由主机 Codex 维护，[Mac 端进度](docs/product/SKYLER-MAC-PROGRESS.md)由 Mac Codex 维护。本端取得新结果、遇到阻塞或完成交接时，在自己的页更新当前任务、实测结果、下一步及需要对端配合的事项。
 
 ## 决策与执行原则
 
