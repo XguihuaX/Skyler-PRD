@@ -1,6 +1,6 @@
 # Skyler 功能复用、二开与测试总表
 
-2026-11-22，按 [Skyler PRD v0.95](PRD-momo-next.md) 的十个功能域逐项核对。麦麦作为 Skyler 后端，DSH 承接适合其插件的任务。旧 Momo 提供已有客户端实现、角色与声音资产。表中“直接用”表示有可采用的实现，仍需配置并按目标设备验收。“接入”表示两端已有能力，需要把输入、结果、身份或用户确认接通。“先试”表示有候选，回放发现具体缺口才二开。后续独立测试与产品扩展单列在文末。依据为麦麦 v1.4.8 及项目已核对的 DSH、社区插件版本。[麦麦功能及插件调查](../INV-42-maibot-capabilities-and-momo-fit.md) · [麦麦与 DSH 桌面桥](https://github.com/SengokuCola/dsh-maibot-bridge)
+2026-11-22，按 [Skyler PRD v0.96](PRD-momo-next.md) 的十个功能域逐项核对。麦麦作为 Skyler 后端，DSH 承接适合其插件的任务。旧 Momo 提供已有客户端实现、角色与声音资产。表中“直接用”表示有可采用的实现，仍需配置并按目标设备验收。“接入”表示两端已有能力，需要把输入、结果、身份或用户确认接通。“先试”表示有候选，回放发现具体缺口才二开。后续独立测试与产品扩展单列在文末。依据为麦麦 v1.4.8 及项目已核对的 DSH、社区插件版本。[麦麦功能及插件调查](../INV-42-maibot-capabilities-and-momo-fit.md) · [麦麦与 DSH 桌面桥](https://github.com/SengokuCola/dsh-maibot-bridge)
 
 目标机器的验证步骤、通过条件和记录方式见[5070 Ti 装机验收与 Mac 联合开发](SKYLER-5070TI-ACCEPTANCE.md)。
 
@@ -50,7 +50,7 @@ Skyler 自己的视觉设计、入口布局和角色外观留给正式前端阶�
 | 记忆纠正 | **先复用麦麦现成的记忆管理页与入口。** 已有查询、编辑、删除及恢复。聊天反馈纠错有开关和查询命中条件，分别回放“刚引用后纠正”和“用户主动纠正”，再开一段聊天核对有效召回。仅在主动纠错无法生效时补这条路径；单独做简洁页面属正式 UI 取舍。[事实编辑](https://github.com/Mai-with-u/MaiBot/blob/v1.4.8/dashboard/src/components/memory/MemoryFactEditorDialog.tsx#L193-L217) · [删除界面](https://github.com/Mai-with-u/MaiBot/blob/v1.4.8/dashboard/src/components/memory/MemoryDeleteDialog.tsx#L248-L265) |
 | 时间连续、短期例外与长期偏好 | **先用麦麦。** “去上海两天”按原先声明的时限理解。“这局让我静静”不覆盖长期偏好。用真实案例检查计划与实际经历、本人和转述的归属。只对回放中出现的缺口抽象旧 Momo 规则。 |
 | 表达学习与办事习惯 | **麦麦直接学表达、黑话和明确偏好**，保留场景、来源、审核及开关。多步办事方法先试 DSH 社区的 `dsh-learn`，例如纠正一次“报价要算运费”，看下次相似任务能否用上。与外部知识学习分开验收。 |
-| 上网学习并回原私聊反馈 | **已纳入功能，排期待定。** 先组合现成的 Git/网页变更监控、内容读取、`dsh-agent-growth` 记录与去重，以及麦麦文字回传。用真实更新验证角色能带出处说明对 Skyler 的用处。按用户要求整理到知识或实验仓库。学习核心已有局部回放。尚无依据另立学习插件开发项。 |
+| 上网学习并回原私聊反馈 | **已有方案与局部验证，待整链路联测。** 安排在 T-04 委托/回报可用后，与 T-07 资料和持续跟进联测。先组合现成的 Git/网页变更监控、内容读取、`dsh-agent-growth` 记录与去重，以及麦麦文字回传。用真实更新验证角色能带出处说明对 Skyler 的用处。按用户要求整理到知识或实验仓库。学习核心已有局部回放。尚无依据另立学习插件开发项。 |
 
 出处见 [PRD §3.3–3.4](SPEC-momo-next-details.md#34-首轮记忆纠正与管理已确认)、[记忆与人格专项](../INV-40-maibot-memory-and-personality.md)、[办事习惯](../INV-32-skill-mcp-foundations.md#7-新版提醒办事习惯接管与权限)和[上网学习调查](../INV-41-online-learning-and-bilibili-replies.md)。
 
@@ -129,13 +129,15 @@ Skyler 自己的视觉设计、入口布局和角色外观留给正式前端阶�
 
 ## 后续独立测试与延期事项
 
+下面的阶段不表示技术缺失。各项的现成来源、待测内容和接入窗口集中见 [PRD §2.2](PRD-momo-next.md#22-已有方案待测内容与接入时机)及[专项任务](SKYLER-TASKS.md#专项与扩展接入窗口)。本节保留版本和源码证据。
+
 | 项目 | 已定安排与要回答的问题 |
 | --- | --- |
 | 多人语音识别 | **先试 DSH 的 `dsh-speech` 0.4.0。** 本地路径需配能返回声纹向量的识别服务，插件把各句归到会话内 A/B，返回文字、标签和时间。本次用模拟向量调用插件原代码，连续三句得到 0、1、0；真人分人效果、实时延迟、内存与显存未测。用同一段普通话夹少量英文的双人录音比较这条路径和保留 faster-whisper 的 WhisperX 路径，再验麦麦原聊天是否保留每句归属。已登记身份识别、重叠语音、是否回应他人仍另定。[DSH 本地识别服务要求](https://github.com/agent-mobile/dsh-speech/blob/008b06fa0e181a9de01e69af38988fe8c7733c9c/README.md#L179-L189) · [实时输出](https://github.com/agent-mobile/dsh-speech/blob/008b06fa0e181a9de01e69af38988fe8c7733c9c/README.md#L253-L267) · [WhisperX](https://github.com/m-bain/whisperX) |
-| 环境音识别 | **后续专项调研。** SenseVoice 已提供部分声音事件分类，可作为现成对照。旧版已核到 Silero 人声检测和 faster-whisper 转写，用户提及的旧组件身份待定位。所需类别、标签能否透过插件传出、准确性和资源需测试。[SenseVoice](https://github.com/FunAudioLLM/SenseVoice) |
-| 角色建模与驱动 | **独立制作测试。** 图片分层、绑定、制作可运行的 Live2D 或 3D 模型，验证可控关节/图层、批量动作表情、口型、自然语言驱动表情、实时动画。Tripo/Astra/Blender、LumenAct、ADRY 等仅作候选。按成品质量、成本、运行占用、可修改性反定 Skyler 目标。 |
+| 环境音识别 | **已有模型，随 T-05/T-06 做专项测试。** SenseVoice 已提供部分声音事件分类，可作为现成对照。旧版已核到 Silero 人声检测和 faster-whisper 转写，用户提及的旧组件身份待定位。所需类别、标签能否透过插件传出、准确性和资源需测试。[SenseVoice](https://github.com/FunAudioLLM/SenseVoice) |
+| 角色建模与驱动 | **已有工具，独立试做后在 T-09 接入成熟结果。** 图片分层、绑定、制作可运行的 Live2D 或 3D 模型，验证可控关节/图层、批量动作表情、口型、自然语言驱动表情、实时动画。Tripo/Astra/Blender、LumenAct、ADRY 等仅作候选。按成品质量、成本、运行占用、可修改性反定 Skyler 目标。 |
 | 人格 Prompt 与推理前缀 | **链路好后做对照。** 先调具体角色文案。固定角色、输入和模型比较多套 Prompt，另测有无角色视角前缀，对闲聊接梗、安慰与操作求助的正式回复做盲评。记录自然度、任务结果、延迟、Token 与费用。 |
-| Life、DailyAgent、多角色 | **后续产品扩展。** Life 下一轮评估共同经历与关系表达。DailyAgent 的角色私人作息、用户不在场时的活动与跨天推进继续后置。多个角色同场并能彼此回应是后续目标，发言顺序、共享/私有记忆、关系与协作待定。用户自己的待办提醒、共同经历记忆仍在首轮。 |
+| Life、DailyAgent、多角色 | **已有基础，首轮后分项接入评估。** Life 可先试已调研的 `dsh-dafeiyu-life`；DailyAgent 有旧 Momo 的日常计划、运行时和生活线代码；多角色有麦麦多 Bot、DSH 多 Agent 和旧角色管理基础，完整共同会话插件尚未选定。Life 下一轮评估共同经历与关系表达。DailyAgent 的角色私人作息、用户不在场时的活动与跨天推进继续后置。多个角色同场并能彼此回应是后续目标，发言顺序、共享/私有记忆、关系与协作待定。用户自己的待办提醒、共同经历记忆仍在首轮。 |
 | 后台任务执行中追加要求 | **保持首轮后验证。** DSH 的 `Agent.steer()` 已能向运行中的 Agent 补充输入。麦麦聊天中追加运费要求能否找到正确执行中的任务，并沿用已完成报价，留待联测。[DSH 运行中补充](https://github.com/deepseek-ai/deepseek-harness/blob/dsh-v0.2.2-rc.5/docs/subsystems/core.md#L113-L140) |
 
 依据见 [多人语音安排](SPEC-momo-next-details.md#549-n-065-说话人区分的阶段安排2026-11-18)、[环境音与摄像头](SPEC-momo-next-details.md#581-场景感知复用调研2026-11-18)、[建模研究交接](../research/CHARACTER-LAB-HANDOFF.md)、[Prompt 对照](SPEC-momo-next-details.md#61-后续多-prompt-对照测试)及[多角色范围](SPEC-momo-next-details.md#57-n-073-后续多角色共同会话与交互)。
@@ -145,6 +147,6 @@ Skyler 自己的视觉设计、入口布局和角色外观留给正式前端阶�
 - **开发侧**用录制的语音/画面、两个版本的资料、测试网页、所选工具或测试服核对结果。记录成功、失败、取消、断线恢复和实际产物。检查闲置/执行时资源、上下文按需加载、Token、费用及稳定性，具体门槛未定。保持组件可替换，实施时记录配置、依赖、诊断、复现与旧数据迁移依据。
 - **用户侧**在 5070 Ti 主机与实际 Mac/手机上体验内存、响应速度、音色与交互，在平时玩的游戏检验陪看、交还控制或队友效果。开发可用 Minecraft 测试服，用户无需专门玩 Minecraft。
 - **范围未定的旧功能**按旧能力盘点逐项处理。例如助手卡/社交卡双入口、独立问候语音、剪贴板与长期活动采集、音乐播放、内容平台、旧日历适配与 ComfyUI 连接器。已有资产或代码可复核，不据此扩大新版范围或删除旧数据。
-- 现有十一个[重构对话案例](../../.agents/skills/momo-refactor-cases/references/cases.md)覆盖上海行程、游戏临时偏好、夜间邮件、隔天聊翻盘、两块路牌、报价途中追加、扫码续传、游戏两种操作、代回邮件和学习仓库反馈。案例 06 用于后续增强，案例 10 的排期待定；案例 11 已确认先验证计划交接。更多实施验收按上表逐条补。
+- 现有十一个[重构对话案例](../../.agents/skills/momo-refactor-cases/references/cases.md)覆盖上海行程、游戏临时偏好、夜间邮件、隔天聊翻盘、两块路牌、报价途中追加、扫码续传、游戏两种操作、代回邮件和学习仓库反馈。案例 06 用于后续增强，案例 10 在 T-04 后随 T-07 联测；案例 11 已确认先验证计划交接。更多实施验收按上表逐条补。
 
 测试分工出自 [PRD §4.2](HISTORY-momo-prd-v0.94.md#42-已表达的质量方向与验收准备)。本表记录覆盖与安排，目标设备的完整链路仍待联测。已做过的局部回放可查[学习与评论插件](../INV-41-online-learning-and-bilibili-replies.md)和[视频抽帧](../INV-42-maibot-capabilities-and-momo-fit.md#3-自拍视频和独立角色窗口)。

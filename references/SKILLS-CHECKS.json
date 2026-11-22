@@ -12,5 +12,6 @@
     "user personal templates"
   ],
   "target_host_execution": "not tested",
-  "prd_version_unchanged": "0.95"
+  "prd_version_unchanged": "0.95",
+  "scope": "Initial four-skill bundle at commit 0ea2e99; development expansion and current checks: PRD-v0.96-CHECKS.json"
 }
