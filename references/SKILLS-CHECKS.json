@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-22",
+  "user_rules": "two requested sections copied verbatim",
+  "snapshot_files_verified": 96,
+  "hash_mismatches": [],
+  "common_credential_pattern_matches": [],
+  "pm_customization_resolution": "passed",
+  "project_configuration_resolution": "passed",
+  "template_discovery": "passed; prd and prd-light present",
+  "optional_missing_template_directories": [
+    "project custom templates",
+    "user personal templates"
+  ],
+  "target_host_execution": "not tested",
+  "prd_version_unchanged": "0.95"
+}

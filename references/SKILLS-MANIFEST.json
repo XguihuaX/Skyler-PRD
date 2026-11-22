@@ -1,0 +1,487 @@
+{
+  "snapshot_date": "2026-11-22",
+  "bmad_source": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "upstream_commit": "not recorded in installed snapshot",
+  "files": [
+    {
+      "path": ".agents/skills/bmad-agent-pm/bmod.toml",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "fdc5345813a48ff6da176e741211c36280908b34c864cfb67b35cebca90c5233"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/SKILL.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "dc71f430483af5d515741f56fab93db1f3993c26993ad180b1b75ff01a870773"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/customize.toml",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "9f04cc1637012d78f9f54a0c574cf2999ae1c968c067c25c25f5cbd62a120276"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/evals/triggers.json",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "8690e08c62edf9356dc167105c15382b30e71b6f07873289bd69c9d4d88545fa"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-prototype-plan.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "2d7a867bea6626d3f51bab81b83ae2e14fd3420747ce7e33e2bb3e9a853e5f6e"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-business-case.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "e0305e278f6db9bfea80cdb415c3090164c7ce87cf529d6711b50c193e2c2801"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-pitch.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "8169587f04c2290f314aa165e8828d1f275a366ba3b0a3236debef3697198159"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/pitch-view.html",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "9537be6c67251a9fe0a1ff5cb83af224fa5076f2a8813dba873f7ed32b279ee2"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-charter.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "fd6141fa1be7042c8343fcd9a155d9f97b2c6acfb6730026eaecf14ed2325d86"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-opportunity.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "0873b4ed47b1ae34e295fb8a540637c00e4ea21f419ea7e14b118c30f15b298a"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-prd.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "47bfad621d981fcd23726a827e2ff9a505ccd7e6500ecb83110a1ce20518bc94"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-narrative.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "bc6b83871b2c0975b0c481cdb07d8b6b498e79cb3a5a3b9ab66857ddd18af1e5"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-prd-light.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "f81bc8b579d110503fa52e9fbf53f6bb258118ae116fea0cb8e5fbbfd466e730"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-agent-spec.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "b6e2e59b7f7f8180fbe516116beb01a2b231898b54ae4860c6bbc7b83e3938cf"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-srs.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "1b80dbeac080ee3a4a90232b45d3bb6fb79258c56ae1e91218a10bc4b81418dd"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-experiment.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "7b16b5313ed636d0efb50909d2fc628b5df1bdcd4881e65a887cb0fc012dca33"
+    },
+    {
+      "path": ".agents/skills/bmad-agent-pm/assets/template-launch.md",
+      "origin": "installed skill bmad-agent-pm",
+      "sha256": "9032260fbd46b4520fd082343ce8efa31d1a12fbba4b29470be636fae5044e86"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/bmod.toml",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "63246b493181ece03caa0f350ce8fcbede3b5148b92b2388e94190ca08410150"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/SKILL.md",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "ba719e2fc6cb36d1f6cf3cb8cea4abffacaf7f4fbbf6acf781a7fd7419a50102"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/customize.toml",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "a366871ec486818801e5db3c226479f6b6317d65e05923c0ef5071fa490d711e"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/references/guidance-planning.md",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "46c79c11a7ecffd8eb33c176589691d25dc572704357a9fb87a4a30a9edac26a"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/references/rubric-planning.md",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "1b77571c54d14697dfa3e4426c11305e3739108741d798eba3c5e5c4dffba1c7"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/references/rubric-general.md",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "0e347afebb423a75b38ffbf263bbe69f445867305b90b27b174c63cdb81918e6"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/scripts/check_ids.py",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "b2ed8b916989e306edcecafccb3eb6e0ecaa7e276ee039b15043e3e41d7202c7"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/scripts/render_view.py",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "e12a091565c0d6e48bde9c2fedf2c58aacdf958641086d56f86e7a0dde17189f"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/scripts/tests/test_render_view.py",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "d0ad1da4e85ecda8e9b33143af248461909ddca4b5adae1050bf17f7c299b354"
+    },
+    {
+      "path": ".agents/skills/bmad-facilitate/scripts/tests/test_check_ids.py",
+      "origin": "installed skill bmad-facilitate",
+      "sha256": "1e3541d5e11cd3202161bc373d0a9c68bd82d6e6944b4d6f01cf449c3d0e452e"
+    },
+    {
+      "path": ".agents/skills/bmad-review/bmod.toml",
+      "origin": "installed skill bmad-review",
+      "sha256": "63246b493181ece03caa0f350ce8fcbede3b5148b92b2388e94190ca08410150"
+    },
+    {
+      "path": ".agents/skills/bmad-review/SKILL.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "c5fa7bc6342fc4da84549c9fddcce04313c210863613724e2c44aeee0089e9cc"
+    },
+    {
+      "path": ".agents/skills/bmad-review/customize.toml",
+      "origin": "installed skill bmad-review",
+      "sha256": "36666ad3517e89177bdafbca7c50b3acf9e6e6d720885e3309e605e7c7b9a21b"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/lens-adversarial.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "7c5ce97ab2f3ecb96ceb6aa76417f68c1b7df535edd3cc51666d8e1216e6e557"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/lens-structure.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "98c08221f517133e57ef6325013935360c3365ebd7dcb8411b2050d7df507ee3"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/lens-edge-case-hunter.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "5f0c4778d7b393d11156af8c1bd9bf88aafeb9d50fff5f460ca67df50d927e7d"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/lens-prose.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "4cbcb1eaea8567d272f5db7c6cdfd74ed5a8aae6831053cb2f01cbfc2cb98b98"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/lens-verification-gap.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "b84a04c48fc37b83c6e3fc54e773f8f40f960ca56c5fed2316dd74967e604091"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/editorial-common.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "f0cdc72ea345b2c5dc3001477b3dfcc909ca11b78f7db8865b6763d18ffc66c8"
+    },
+    {
+      "path": ".agents/skills/bmad-review/references/structure-models.md",
+      "origin": "installed skill bmad-review",
+      "sha256": "f84f85070e1af75f2482757aba9d37d69d805a20826d185527e598f2ba6b9292"
+    },
+    {
+      "path": ".agents/skills/bmad-review/scripts/word_metrics.py",
+      "origin": "installed skill bmad-review",
+      "sha256": "be107b5740c564a8ec608ffdd4742c095ab23d8b6edeeee6b93643ff6c22a749"
+    },
+    {
+      "path": ".agents/skills/bmad-review/scripts/tests/test_word_metrics.py",
+      "origin": "installed skill bmad-review",
+      "sha256": "a88f87ce28f11c2a54045b7f8ab791043aacf4ddbc49d53cf10c4cab7c76534a"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/bmod.toml",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "bb0e13fa6933a19082cb82a4ec3b8a9219970de4a1f8688000cb0305ce7243c3"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/SKILL.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "9392dc6f150da22ba00c7ecbb25a109073128a63f218d720edb44074ec2a7109"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/retired.toml",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "ffaac20fb3384fa286973ae1b9a973217939629d5499f2ad3f22e292f6c5b4c3"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/ingest-templates/template-one-on-one.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "acc013034d44471d29d91d793edd2f24013a047ee7a2f4b150efaf46f02ee2e1"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/ingest-templates/template-document.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "20b0c2c0af6de912830ecb34ac9a4427b5bf49de7a682bb786390a92f835379a"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/ingest-templates/template-thread.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "af0dc78f47cbfce09c4276195a79188969ba51d97571fd18a965549f258fa50f"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/ingest-templates/template-meeting.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "6a5af68fe9f078d091eff23122b8f8b4a886974130dbd9fe4a62f990ec7781c0"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/ingest-templates/template-voice-memo.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "5c28ff3f51f1a9d8e5fed591e5d0144d9bb0b4bd1ea04e837569c093c4b09065"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/advanced-elicitation.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "0ce48fa4fc924cb43ae1d40f7fa8f7d5841c8402406b5ea1f1e77cee1b168bc6"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/party-mode.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "9d160c7877e8bd9e880906a764f47247a60284b3c3d95aa34d7d18a8ed303e2a"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/customization.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "74b9d0eec699addc5ac16644e80358a1695b09e71bbf944784ab7b71e577feed"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/modules.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "613c98fdfebd35136840567711b27fcf16aa1a36e51bf5e231e05d6849d49198"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/shard-pro.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "1b0c3a86e4f26b1d504e5560a36e90d9047c4c0cf408b65f90e5967b4c8277b5"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/help.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "8d9ac9524bf54ac3c35bbc7aa2018b9ccfbb85ff6e93b6fbe2e1cbff68cf35a0"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/research.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "fba2140e741cf82f28bf02979f2812c2a206fa0322ce0fd5efd507e6de05c421"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/ingest.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "0f7a6b18336c2f8c2afea62b617b45a18dcbfc3e68e59583985f73a57aa50332"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/team-adoption.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "de5ba4c11b44e83d0fb66693f76c2218b75e9c691d8c303ca491a9e55f73ca72"
+    },
+    {
+      "path": ".agents/skills/bmod-core-tools/help/facilitate.md",
+      "origin": "installed skill bmod-core-tools",
+      "sha256": "249bfc65d0f8a01b4d947c8417760032549fb1cec1e66c5f5666ee2a81765b1d"
+    },
+    {
+      "path": ".agents/skills/bmod-method/bmod.toml",
+      "origin": "installed skill bmod-method",
+      "sha256": "76c7f59ab35ff5d3b3632af3561355290d47b3617407e9450a2a577f72631b7f"
+    },
+    {
+      "path": ".agents/skills/bmod-method/migration-1.toml",
+      "origin": "installed skill bmod-method",
+      "sha256": "58bdc0bbd2d982b580eca623094d8d7c773cf119683a2de0eca8acc6e47a6f50"
+    },
+    {
+      "path": ".agents/skills/bmod-method/migration-2.toml",
+      "origin": "installed skill bmod-method",
+      "sha256": "ccde4d9af5c27bfdf5df4f46d2cc5d53a114de5aa71b37f21ebd24dc1fe5a0d2"
+    },
+    {
+      "path": ".agents/skills/bmod-method/SKILL.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "3200579fbff4a77543d9471658bfbf86193ff7274efab3af3c935056acecaa14"
+    },
+    {
+      "path": ".agents/skills/bmod-method/roster.toml",
+      "origin": "installed skill bmod-method",
+      "sha256": "a0ce9d7879145d88dc74206fa534ab2d6ada4dd40cff9acf3f397ed9d99aaaca"
+    },
+    {
+      "path": ".agents/skills/bmod-method/retired.toml",
+      "origin": "installed skill bmod-method",
+      "sha256": "d13007bc152204ebe622696cf23031f929d739088e87eac32773326f9d6a34fa"
+    },
+    {
+      "path": ".agents/skills/bmod-method/ingest-templates/template-user-interview.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "69c3bbdebfe0ce36adee2dea2b8a1575033ab8bfc7ff51138165d0b7bacc8b99"
+    },
+    {
+      "path": ".agents/skills/bmod-method/ingest-templates/template-retrospective.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "21b1f01beab2aac6ab71f089c230fb8706c7a0512d55d0b7fa8b9a4e2da0645c"
+    },
+    {
+      "path": ".agents/skills/bmod-method/ingest-templates/template-discovery-workshop.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "9a48d39867df9bdc9b63ea7c38daa42c98abc26967710a6ba24cc235a3843b7c"
+    },
+    {
+      "path": ".agents/skills/bmod-method/ingest-templates/template-sprint-review.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "db46da2ffdbf1f9524762797613982478d2936cc1d093fd69a6b7aff25c446ae"
+    },
+    {
+      "path": ".agents/skills/bmod-method/ingest-templates/template-standup.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "d51adb9d3bc19ca03006f0000b6b403440e0da13ad2d9ae6f471f8aa51ff5aae"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/project-context.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "a5f54af7dfef5713cf84368fc5b48ea11b5d83121d7362260ec1bb7b8cfcd625"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/working-in-an-organization.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "59f290a7742194a681abdef2e421209e36989c2b8b5a01e57eed4220c06d8afe"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/validation-skills.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "ab47fca897b3987b3684efec9cccb7f233b4fe35002c3cfae40e8f5408f71036"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/existing-codebase.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "9ec5a2f89156a02ddb2bf93555c6064d9bf25f4653cf23bd5d8271805c193809"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/ticketing-and-epics.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "4edfcc3142558e616ac71f69ef35feebd38398d29b79a252d3506cf261cd52aa"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/monorepo-and-polyrepo.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "1572a669435e416a66287fc44bfa5f32d554bd48cfa4d2f10d17f42ae8c53419"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/analysis-skills.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "7ce5a160393c8609b0c2a3278aa662ca986fa95b16dd5a78443a72f19a7d9467"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/review-choices.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "2609a891019890b75be90a0cb7b31e9078bafc3f7caa9f11e475f897b25d681f"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/preparing-a-repo-for-agents.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "071470406f4acede3ca253d39b316384e39d776522c0f5f5075b6ebf51e182dd"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/prototyping.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "74e3c9874c802de861030a62d7795eba271dc35053db9e504a490c4a4682966c"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/help.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "750f896fdee2385838c23a56b43c59daab7ec4ecf0b38ea9d14a115fe98e0a4a"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/planning-skills.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "133c8c87e16b5c9b0ae045d717c2f92af3821aa7dbf943a488c2040ed97bcd9e"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/unattended-builds.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "365349975758f68b0c2a27e0a71052cb53801baf3314551c183440191e7a0d79"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/artifact-lifetime.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "df488ea4529ad56847e98bf60dfbfec6bf5316e677a6c8397a66426c7230d51e"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/ticketing-setup.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "aaa826e9be5e4cf3982a14728359995b8c7021c1a796fc5fbce445d0d9e7e198"
+    },
+    {
+      "path": ".agents/skills/bmod-method/help/implementation-skills.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "407b426476e00c02cd10139b329141278e385de4ad44646a88a6b1a6c4d94f64"
+    },
+    {
+      "path": ".agents/skills/bmod-method/doc-templates/template-security-review.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "73fe82b93052cc685ebd061bba5299f184b2c9789e968beb6be948a547075760"
+    },
+    {
+      "path": ".agents/skills/bmod-method/doc-templates/methods-security.csv",
+      "origin": "installed skill bmod-method",
+      "sha256": "4ae9a4e0eefed6c526de02362c2d08e64e27d4c7f2d6366cb188524163077b68"
+    },
+    {
+      "path": ".agents/skills/bmod-method/doc-templates/template-postmortem.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "f4e78fff08f65e80f30a9065072cfa6f276ecb4548440c1e8b0ff779212c69ec"
+    },
+    {
+      "path": ".agents/skills/bmod-method/doc-templates/template-decision-record.md",
+      "origin": "installed skill bmod-method",
+      "sha256": "6c46ab3bf7281487343bdde8da65e70426f9521c676c01f13a6d56f86a659030"
+    },
+    {
+      "path": ".agents/skills/momo-refactor-cases/SKILL.md",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "82eb89b5884f29d3f0fb7e95f040724486402a1b41a5953fbbe4eb6b2feada99"
+    },
+    {
+      "path": "_bmad/scripts/resolve_customization.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "ea521b3ed5c62232cfa4f4c41ece4e8886792a05372e64b88fd73d97b19eac43"
+    },
+    {
+      "path": "_bmad/scripts/resolve_config.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "8175da8c5f7780e4f105fb3d29841ca429ddc65f0ff1ab32e6618367f654ab58"
+    },
+    {
+      "path": "_bmad/scripts/config_utils.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "a4bba671cb3aedbf80fa4309d9c96afe6674f8de656a44a7fe67324815de437d"
+    },
+    {
+      "path": "_bmad/scripts/list_templates.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "71da9423c2977fd803d5bda91b415f265c7d96f980ef73ffc50eb8dbbdba320b"
+    },
+    {
+      "path": "_bmad/scripts/memlog.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "ff88ff37fdf88da23bbc591f26975abb0e047b7f3a52081756143f29d26d31de"
+    },
+    {
+      "path": "_bmad/method/scripts/tickets.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "ae6f0108f68a92a50191a046d4698f92bf065ac6f22849e74c6709f54d17d2e7"
+    },
+    {
+      "path": "_bmad/core-tools/scripts/pick_methods.py",
+      "origin": "existing MomoOS-v2 project",
+      "sha256": "2fb04e69382f344b7c501e7735b13267b2fa72e8ee1eaf1495bee9bcf2623dd6"
+    }
+  ]
+}

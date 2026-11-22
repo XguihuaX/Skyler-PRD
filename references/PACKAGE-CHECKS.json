@@ -3,5 +3,6 @@
   "local_links": 792,
   "missing_targets": [],
   "unresolved_fragments": [],
-  "credential_pattern_files": []
+  "credential_pattern_files": [],
+  "scope": "Initial PRD document package at commit 49d1b5b; subsequent skill package checks are in SKILLS-CHECKS.json"
 }

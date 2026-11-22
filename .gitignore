@@ -13,3 +13,7 @@ config.yaml
 *.safetensors
 node_modules/
 .venv/
+
+__pycache__/
+*.pyc
+_bmad-output/
