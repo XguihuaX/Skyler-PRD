@@ -1,6 +1,8 @@
 # INVESTIGATION 索引
 
-## 当前接手入口（2026-11-21）
+## 当前接手入口（2026-11-22）
+
+- [INV-43 麦麦插件市场与 Skyler 选型](INV-43-maibot-plugin-market-for-skyler.md)附 478 款插件的用途清单，以及本地语音、DSH 委托和资料更新候选的使用条件。
 
 - [INV-42 麦麦全功能与 Momo 开发取舍](INV-42-maibot-capabilities-and-momo-fit.md)核对 v1.4.8 本体、官方市场目录、桌宠、任务、自拍、视频与摄像头陪伴，附本机抽帧结果。
 
